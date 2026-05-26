@@ -1,718 +1,717 @@
-{
-  "albums": [
-    {
-      "albumId": "5eZ1UdKMt5cs4NxGQSQ2ar",
-      "albumName": "Anamorphosee",
-      "artistName": "Mylène Farmer",
-      "releaseDate": "1995-01-01",
-      "addedAt": "2025-12-30T00:42:21.208Z"
-    },
-    {
-      "albumId": "5VZyXBOIRs0w7Rh0pWmecI",
-      "albumName": "Whisper and Wane",
-      "artistName": "Shedfromthebody",
-      "releaseDate": "2025-01-17",
-      "addedAt": "2025-12-30T00:54:12.186Z"
-    },
-    {
-      "albumId": "1Jyr6ZID2DRvvj4FLQ7Sxa",
-      "albumName": "Below The Waste",
-      "artistName": "Goat Girl",
-      "releaseDate": "2024-06-07",
-      "addedAt": "2025-12-30T00:54:12.188Z"
-    },
-    {
-      "albumId": "5KV2TIucWQfU954VB5hF1y",
-      "albumName": "Obsidian Wreath",
-      "artistName": "Infant Island",
-      "releaseDate": "2024-01-12",
-      "addedAt": "2025-12-30T00:54:12.188Z"
-    },
-    {
-      "albumId": "4uJMF1xAEk9IgPA5UbwNA6",
-      "albumName": "She Reaches Out To She Reaches Out To She",
-      "artistName": "Chelsea Wolfe",
-      "releaseDate": "2024-02-09",
-      "addedAt": "2025-12-30T00:54:12.189Z"
-    },
-    {
-      "albumId": "12vzq91UrxC2r3zcHnhaiX",
-      "albumName": "Agriculture",
-      "artistName": "Agriculture",
-      "releaseDate": "2023-07-21",
-      "addedAt": "2025-12-30T00:54:12.189Z"
-    },
-    {
-      "albumId": "2lu7c86G1ptjMJVL9upG1H",
-      "albumName": "False Lankum",
-      "artistName": "Lankum",
-      "releaseDate": "2023-03-24",
-      "addedAt": "2025-12-30T00:54:12.189Z"
-    },
-    {
-      "albumId": "2ZMViS2A6M15Z1kN6n6O8S",
-      "albumName": "Skinty Fia",
-      "artistName": "Fontaines D.C.",
-      "releaseDate": "2022-04-22",
-      "addedAt": "2025-12-30T00:54:12.189Z"
-    },
-    {
-      "albumId": "2IVL0vnFIe9uHWW1TAocC7",
-      "albumName": "PAINLESS",
-      "artistName": "Nilüfer Yanya",
-      "releaseDate": "2022-03-04",
-      "addedAt": "2025-12-30T00:54:12.190Z"
-    },
-    {
-      "albumId": "0r9awI5WRCZpwk0aVQ4bKO",
-      "albumName": "Wet Leg",
-      "artistName": "Wet Leg",
-      "releaseDate": "2022-04-08",
-      "addedAt": "2025-12-30T00:54:12.191Z"
-    },
-    {
-      "albumId": "7G7lPTcJta35qGZ8LMIJ4y",
-      "albumName": "Any Shape You Take",
-      "artistName": "Indigo De Souza",
-      "releaseDate": "2021-08-27",
-      "addedAt": "2025-12-30T00:54:12.191Z"
-    },
-    {
-      "albumId": "3OKcePcXMmswbp5BOKIMWH",
-      "albumName": "Celestial Blues",
-      "artistName": "King Woman",
-      "releaseDate": "2021-07-30",
-      "addedAt": "2025-12-30T00:54:12.191Z"
-    },
-    {
-      "albumId": "2OSANMwUl0y0wXe3w8stmv",
-      "albumName": "Silver Tongue",
-      "artistName": "TORRES",
-      "releaseDate": "2020-01-31",
-      "addedAt": "2025-12-30T00:54:12.191Z"
-    },
-    {
-      "albumId": "1OqeCBpnBINPaOni2h3hVv",
-      "albumName": "Nest",
-      "artistName": "Brutus",
-      "releaseDate": "2019-03-29",
-      "addedAt": "2025-12-30T00:54:12.191Z"
-    },
-    {
-      "albumId": "4ClyeVlAKJJViIyfVW0yQD",
-      "albumName": "Pang",
-      "artistName": "Caroline Polachek",
-      "releaseDate": "2019-10-18",
-      "addedAt": "2025-12-30T00:54:12.192Z"
-    },
-    {
-      "albumId": "3DMR3yM5crnt1dG9lLaMTZ",
-      "albumName": "MAGDALENE",
-      "artistName": "FKA twigs",
-      "releaseDate": "2019-11-08",
-      "addedAt": "2025-12-30T00:54:12.192Z"
-    },
-    {
-      "albumId": "58HB0yjdQE2MH5MrfWt4EO",
-      "albumName": "What Chaos Is Imaginary",
-      "artistName": "Girlpool",
-      "releaseDate": "2019-02-01",
-      "addedAt": "2025-12-30T00:54:12.192Z"
-    },
-    {
-      "albumId": "3950FHVErcINW3tjRgjebQ",
-      "albumName": "Pony",
-      "artistName": "Orville Peck",
-      "releaseDate": "2019-03-22",
-      "addedAt": "2025-12-30T00:54:12.192Z"
-    },
-    {
-      "albumId": "5zi7WsKlIiUXv09tbGLKsE",
-      "albumName": "IGOR",
-      "artistName": "Tyler, The Creator",
-      "releaseDate": "2019-05-17",
-      "addedAt": "2025-12-30T00:54:12.192Z"
-    },
-    {
-      "albumId": "2yVx5Ark5dEz7YN6tYX4Mu",
-      "albumName": "Wednesday",
-      "artistName": "Just Mustard",
-      "releaseDate": "2018-05-02",
-      "addedAt": "2025-12-30T00:54:12.192Z"
-    },
-    {
-      "albumId": "3BJqKT6NBFj06k5LIvjiZb",
-      "albumName": "Arca",
-      "artistName": "Arca",
-      "releaseDate": "2017-04-07",
-      "addedAt": "2025-12-30T00:54:12.192Z"
-    },
-    {
-      "albumId": "4inGs77EzuPBFwIyoHIViB",
-      "albumName": "Burst",
-      "artistName": "Brutus",
-      "releaseDate": "2017-02-24",
-      "addedAt": "2025-12-30T00:54:12.192Z"
-    },
-    {
-      "albumId": "120bhi2kgHiYc2FwI7nghO",
-      "albumName": "Powerplant",
-      "artistName": "Girlpool",
-      "releaseDate": "2017-05-12",
-      "addedAt": "2025-12-30T00:54:12.192Z"
-    },
-    {
-      "albumId": "3qPU4on4Nurlbzn607FSQ3",
-      "albumName": "Not To Disappear",
-      "artistName": "Daughter",
-      "releaseDate": "2016-01-15",
-      "addedAt": "2025-12-30T00:54:12.193Z"
-    },
-    {
-      "albumId": "1Jz7Wkxm5uzkgcJkkOtw2s",
-      "albumName": "Mémoires Vives",
-      "artistName": "Grand Blanc",
-      "releaseDate": "2016-02-19",
-      "addedAt": "2025-12-30T00:54:12.193Z"
-    },
-    {
-      "albumId": "3qZCK4Fg655xHnlgHK6H63",
-      "albumName": "Impossible Dream",
-      "artistName": "Haley Bonar",
-      "releaseDate": "2016-08-05",
-      "addedAt": "2025-12-30T00:54:12.195Z"
-    },
-    {
-      "albumId": "16i5KnBjWgUtwOO7sVMnJB",
-      "albumName": "Puberty 2",
-      "artistName": "Mitski",
-      "releaseDate": "2016-06-17",
-      "addedAt": "2025-12-30T00:54:12.195Z"
-    },
-    {
-      "albumId": "3lobKWYjPRZWL6gFLKYE4P",
-      "albumName": "California Nights",
-      "artistName": "Best Coast",
-      "releaseDate": "2015-05-04",
-      "addedAt": "2025-12-30T00:54:12.196Z"
-    },
-    {
-      "albumId": "4Lo2VjxjIJ5h7YOFwAHRxb",
-      "albumName": "Sore",
-      "artistName": "DILLY DALLY",
-      "releaseDate": "2015-10-09",
-      "addedAt": "2025-12-30T00:54:12.196Z"
-    },
-    {
-      "albumId": "0U8DeqqKDgIhIiWOdqiQXE",
-      "albumName": "Carrie & Lowell",
-      "artistName": "Sufjan Stevens",
-      "releaseDate": "2015-03-31",
-      "addedAt": "2025-12-30T00:54:12.196Z"
-    },
-    {
-      "albumId": "38c1chiHvk1wwH0CDTqRIW",
-      "albumName": "Remain",
-      "artistName": "Them Are Us Too",
-      "releaseDate": "2015-03-24",
-      "addedAt": "2025-12-30T00:54:12.196Z"
-    },
-    {
-      "albumId": "7bDxnaImZCM2TJbsI1gMVi",
-      "albumName": "Abyss",
-      "artistName": "Chelsea Wolfe",
-      "releaseDate": "2015-08-07",
-      "addedAt": "2025-12-30T00:54:12.196Z"
-    },
-    {
-      "albumId": "00tpyZkSVSu6hGp3iWp9E6",
-      "albumName": "Last War",
-      "artistName": "Haley Bonar",
-      "releaseDate": "2014-09-29",
-      "addedAt": "2025-12-30T00:54:12.197Z"
-    },
-    {
-      "albumId": "472GvzwE3EZ0i2EEaly5mX",
-      "albumName": "Bury Me At Makeout Creek",
-      "artistName": "Mitski",
-      "releaseDate": "2014-11-11",
-      "addedAt": "2025-12-30T00:54:12.197Z"
-    },
-    {
-      "albumId": "3OBbnkBJc5Pi8rTeeKPTGO",
-      "albumName": "Some Heavy Ocean",
-      "artistName": "Emma Ruth Rundle",
-      "releaseDate": "2014-05-19",
-      "addedAt": "2025-12-30T00:54:12.197Z"
-    },
-    {
-      "albumId": "6EQWzHbd3EYO8J4EAIJst4",
-      "albumName": "Are We There",
-      "artistName": "Sharon Van Etten",
-      "releaseDate": "2014-05-27",
-      "addedAt": "2025-12-30T00:54:12.197Z"
-    },
-    {
-      "albumId": "30oc4LI7xm1yMU0XqjLnai",
-      "albumName": "Fade Away",
-      "artistName": "Best Coast",
-      "releaseDate": "2013-10-22",
-      "addedAt": "2025-12-30T00:54:12.198Z"
-    },
-    {
-      "albumId": "3FEmnamAHHOiJ8hG7tMdJP",
-      "albumName": "Vertikal",
-      "artistName": "Cult Of Luna",
-      "releaseDate": "2013-01-29",
-      "addedAt": "2025-12-30T00:54:12.198Z"
-    },
-    {
-      "albumId": "4rNhJ9spDTFSXo95Ce4jFw",
-      "albumName": "Wash the Sins Not Only the Face",
-      "artistName": "Esben and the Witch",
-      "releaseDate": "2013-01-21",
-      "addedAt": "2025-12-30T00:54:12.198Z"
-    },
-    {
-      "albumId": "67Gt8fh4sBgkLnAYChZTz4",
-      "albumName": "bounty",
-      "artistName": "iamamiwhoami",
-      "releaseDate": "2013-06-03",
-      "addedAt": "2025-12-30T00:54:12.199Z"
-    },
-    {
-      "albumId": "0aMC5DDAF86GvYNPaivEKd",
-      "albumName": "Silence Yourself",
-      "artistName": "Savages",
-      "releaseDate": "2013-05-06",
-      "addedAt": "2025-12-30T00:54:12.199Z"
-    },
-    {
-      "albumId": "4rpm9Ez8nfVsQvNmHDbgyp",
-      "albumName": "Pain Is Beauty",
-      "artistName": "Chelsea Wolfe",
-      "releaseDate": "2013-09-03",
-      "addedAt": "2025-12-30T00:54:12.199Z"
-    },
-    {
-      "albumId": "3ML5dQEdtRzUAAeNIiHdVG",
-      "albumName": "WIXIW",
-      "artistName": "Liars",
-      "releaseDate": "2013-10-01",
-      "addedAt": "2025-12-30T00:54:12.199Z"
-    },
-    {
-      "albumId": "5Q4twEkKreQ54pnMSBKYrU",
-      "albumName": "Feel It Break",
-      "artistName": "Austra",
-      "releaseDate": "2011-05-17",
-      "addedAt": "2025-12-30T00:54:12.199Z"
-    },
-    {
-      "albumId": "1VSNOi4dAvNc5sT9R0U6ZQ",
-      "albumName": "Anna Calvi",
-      "artistName": "Anna Calvi",
-      "releaseDate": "2011-01-17",
-      "addedAt": "2025-12-30T00:54:12.199Z"
-    },
-    {
-      "albumId": "7CDvibYA9VE63MYupv4lMi",
-      "albumName": "Both Ways Open Jaws",
-      "artistName": "The Dø",
-      "releaseDate": "2011-03-07",
-      "addedAt": "2025-12-30T00:54:12.199Z"
-    },
-    {
-      "albumId": "5qAwPhkurqnWvvmHgOoZ6n",
-      "albumName": "Violet Cries",
-      "artistName": "Esben and the Witch",
-      "releaseDate": "2011-01-31",
-      "addedAt": "2025-12-30T00:54:12.199Z"
-    },
-    {
-      "albumId": "616gMygfSCfBq8uk8jbgyh",
-      "albumName": "Grown Unknown",
-      "artistName": "Lia Ices",
-      "releaseDate": "2011-01-25",
-      "addedAt": "2025-12-30T00:54:12.199Z"
-    },
-    {
-      "albumId": "7fTKQdfuGQuRd5RYJfpaZB",
-      "albumName": "NYX",
-      "artistName": "Mansfield.TYA",
-      "releaseDate": "2011-10-17",
-      "addedAt": "2025-12-30T00:54:12.199Z"
-    },
-    {
-      "albumId": "716fnrS2qXChPC3J2X73pK",
-      "albumName": "The English Riviera",
-      "artistName": "Metronomy",
-      "releaseDate": "2011-04-11",
-      "addedAt": "2025-12-30T00:54:12.199Z"
-    },
-    {
-      "albumId": "6FyvLNb26bBDQ9ViXlEy5i",
-      "albumName": "Apokalypsis",
-      "artistName": "Chelsea Wolfe",
-      "releaseDate": "2011-08-23",
-      "addedAt": "2025-12-30T00:54:12.200Z"
-    },
-    {
-      "albumId": "1GjjBpY2iDwSQs5bykQI5e",
-      "albumName": "Diamond Eyes",
-      "artistName": "Deftones",
-      "releaseDate": "2010-04-30",
-      "addedAt": "2025-12-30T00:54:12.200Z"
-    },
-    {
-      "albumId": "670h50t8E3LwP2bGqxGi6E",
-      "albumName": "Total Life Forever",
-      "artistName": "Foals",
-      "releaseDate": "2010-05-10",
-      "addedAt": "2025-12-30T00:54:12.200Z"
-    },
-    {
-      "albumId": "0bVZZUftetJmkK0Ms8S6Z0",
-      "albumName": "In Evening Air",
-      "artistName": "Future Islands",
-      "releaseDate": "2010-05-04",
-      "addedAt": "2025-12-30T00:54:12.200Z"
-    },
-    {
-      "albumId": "263qnpEbEbDvSrHvUSWgyk",
-      "albumName": "Wall Of Arms",
-      "artistName": "The Maccabees",
-      "releaseDate": "2010-01-01",
-      "addedAt": "2025-12-30T00:54:12.200Z"
-    },
-    {
-      "albumId": "3dEgxewsJAZ6s2nVUieNA5",
-      "albumName": "Treats",
-      "artistName": "Sleigh Bells",
-      "releaseDate": "2010-05-11",
-      "addedAt": "2025-12-30T00:54:12.201Z"
-    },
-    {
-      "albumId": "4kRMCapj9nEyBWnM0kc9OX",
-      "albumName": "The Age of Adz",
-      "artistName": "Sufjan Stevens",
-      "releaseDate": "2010-10-12",
-      "addedAt": "2025-12-30T00:54:12.201Z"
-    },
-    {
-      "albumId": "7mfSdEokzQjI5AxwrRauZv",
-      "albumName": "Epic",
-      "artistName": "Sharon Van Etten",
-      "releaseDate": "2010-09-21",
-      "addedAt": "2025-12-30T00:54:12.201Z"
-    },
-    {
-      "albumId": "5j8nonYjFfm4KFso0wVqpN",
-      "albumName": "In This Light and On This Evening",
-      "artistName": "Editors",
-      "releaseDate": "2010-02-02",
-      "addedAt": "2025-12-30T00:54:12.202Z"
-    },
-    {
-      "albumId": "0XwEfJMejqTpgalJwtp1CM",
-      "albumName": "Fever Ray",
-      "artistName": "Fever Ray",
-      "releaseDate": "2009-01-12",
-      "addedAt": "2025-12-30T00:54:12.202Z"
-    },
-    {
-      "albumId": "5s9ri2Rr4nXdTFKUFjGkMe",
-      "albumName": "Lungs",
-      "artistName": "Florence + The Machine",
-      "releaseDate": "2009-07-03",
-      "addedAt": "2025-12-30T00:54:12.203Z"
-    },
-    {
-      "albumId": "6FIFqclBriPCb0SjWDaHIk",
-      "albumName": "Veckatimest",
-      "artistName": "Grizzly Bear",
-      "releaseDate": "2009-05-24",
-      "addedAt": "2025-12-30T00:54:12.204Z"
-    },
-    {
-      "albumId": "1yeZs16HEgGVwy3qZRMQTs",
-      "albumName": "A Balloon Called Moaning",
-      "artistName": "The Joy Formidable",
-      "releaseDate": "2009-01-01",
-      "addedAt": "2025-12-30T00:54:12.204Z"
-    },
-    {
-      "albumId": "0uOyWZz1ZnQczjvuF9SWWf",
-      "albumName": "Box of Secrets",
-      "artistName": "Blood Red Shoes",
-      "releaseDate": "2008-01-01",
-      "addedAt": "2025-12-30T00:54:12.205Z"
-    },
-    {
-      "albumId": "18JyZd2XLdT2rmekw6EwoS",
-      "albumName": "Third",
-      "artistName": "Portishead",
-      "releaseDate": "2008-01-01",
-      "addedAt": "2025-12-30T00:54:12.205Z"
-    },
-    {
-      "albumId": "4QjGIZZqvNrdkgw4LZKLZK",
-      "albumName": "The Con",
-      "artistName": "Tegan and Sara",
-      "releaseDate": "2007-07-24",
-      "addedAt": "2025-12-30T00:54:12.206Z"
-    },
-    {
-      "albumId": "3lgIiynXHTZYaSvS1ZrMxG",
-      "albumName": "Show Your Bones",
-      "artistName": "Yeah Yeah Yeahs",
-      "releaseDate": "2006-01-01",
-      "addedAt": "2025-12-30T00:54:12.206Z"
-    },
-    {
-      "albumId": "5YGnygLN1mVSJQkvP04OJi",
-      "albumName": "Playing the Angel",
-      "artistName": "Depeche Mode",
-      "releaseDate": "2005-10-17",
-      "addedAt": "2025-12-30T00:54:12.206Z"
-    },
-    {
-      "albumId": "6ZeO3WNF2Gti8ZQnXog5SQ",
-      "albumName": "Apologies to the Queen Mary",
-      "artistName": "Wolf Parade",
-      "releaseDate": "2005-09-27",
-      "addedAt": "2025-12-30T00:54:12.206Z"
-    },
-    {
-      "albumId": "6ZB8qaR9JNuS0Q0bG1nbcH",
-      "albumName": "Funeral",
-      "artistName": "Arcade Fire",
-      "releaseDate": "2004-06-16",
-      "addedAt": "2025-12-30T00:54:12.207Z"
-    },
-    {
-      "albumId": "5NUna7cH8t5yLMgBxmW4NL",
-      "albumName": "Antics",
-      "artistName": "Interpol",
-      "releaseDate": "2004-09-27",
-      "addedAt": "2025-12-30T00:54:12.207Z"
-    },
-    {
-      "albumId": "2yNhqBKfZPzrxRJqGMbSz9",
-      "albumName": "So Jealous",
-      "artistName": "Tegan and Sara",
-      "releaseDate": "2004-09-14",
-      "addedAt": "2025-12-30T00:54:12.207Z"
-    },
-    {
-      "albumId": "4hBTxv4QRPePXCFcEI7Vjp",
-      "albumName": "blink-182",
-      "artistName": "blink-182",
-      "releaseDate": "2003-11-01",
-      "addedAt": "2025-12-30T00:54:12.207Z"
-    },
-    {
-      "albumId": "29GVlUeSHwBCbf31VaGaCO",
-      "albumName": "Scarlet's Walk",
-      "artistName": "Tori Amos",
-      "releaseDate": "2002-10-28",
-      "addedAt": "2025-12-30T00:54:12.209Z"
-    },
-    {
-      "albumId": "2OhUWm2KJay2YWeItU9YcH",
-      "albumName": "Turn On The Bright Lights",
-      "artistName": "Interpol",
-      "releaseDate": "2002-08-20",
-      "addedAt": "2025-12-30T00:54:12.209Z"
-    },
-    {
-      "albumId": "32H8ZczfX12FWWODVVr6NQ",
-      "albumName": "Untouchables",
-      "artistName": "Korn",
-      "releaseDate": "2002",
-      "addedAt": "2025-12-30T00:54:12.209Z"
-    },
-    {
-      "albumId": "6jWde94ln40epKIQCd8XUh",
-      "albumName": "Toxicity",
-      "artistName": "System Of A Down",
-      "releaseDate": "2001-09-04",
-      "addedAt": "2025-12-30T00:54:12.209Z"
-    },
-    {
-      "albumId": "6PFPjumGRpZnBzqnDci6qJ",
-      "albumName": "Hybrid Theory",
-      "artistName": "Linkin Park",
-      "releaseDate": "2000-10-24",
-      "addedAt": "2025-12-30T00:54:12.209Z"
-    },
-    {
-      "albumId": "3UBfrm1LGAdOZflgsmCsM2",
-      "albumName": "Return Of Saturn",
-      "artistName": "No Doubt",
-      "releaseDate": "2000-01-01",
-      "addedAt": "2025-12-30T00:54:12.209Z"
-    },
-    {
-      "albumId": "0PhJJToPch4jCjrfQjyarw",
-      "albumName": "Black Market Music",
-      "artistName": "Placebo",
-      "releaseDate": "2000-10-09",
-      "addedAt": "2025-12-30T00:54:12.210Z"
-    },
-    {
-      "albumId": "02qgAJm7p9AXtFNHhDTYdu",
-      "albumName": "Innamoramento",
-      "artistName": "Mylène Farmer",
-      "releaseDate": "1999-04-07",
-      "addedAt": "2025-12-30T00:54:12.210Z"
-    },
-    {
-      "albumId": "77Aoown5BoLvQJnZJBICPO",
-      "albumName": "From the Choir Girl Hotel",
-      "artistName": "Tori Amos",
-      "releaseDate": "1998-04-24",
-      "addedAt": "2025-12-30T00:54:12.210Z"
-    },
-    {
-      "albumId": "66oRYombEmQmugi8uWuans",
-      "albumName": "Version 2.0",
-      "artistName": "Garbage",
-      "releaseDate": "1998-01-01",
-      "addedAt": "2025-12-30T00:54:12.210Z"
-    },
-    {
-      "albumId": "2KE8WCHtD8qnAxXeIzNEId",
-      "albumName": "Celebrity Skin",
-      "artistName": "Hole",
-      "releaseDate": "1998-01-01",
-      "addedAt": "2025-12-30T00:54:12.210Z"
-    },
-    {
-      "albumId": "6cuNyrSmRjBeekioLdLkvI",
-      "albumName": "Ray of Light",
-      "artistName": "Madonna",
-      "releaseDate": "1998-03-03",
-      "addedAt": "2025-12-30T00:54:12.210Z"
-    },
-    {
-      "albumId": "4gNjfAA5axfUEBbHJoAKBO",
-      "albumName": "Gran Turismo",
-      "artistName": "The Cardigans",
-      "releaseDate": "1998-10-01",
-      "addedAt": "2025-12-30T00:54:12.210Z"
-    },
-    {
-      "albumId": "0h19Ty9F2Ma8pKkRdx17UT",
-      "albumName": "Homogenic",
-      "artistName": "Björk",
-      "releaseDate": "1997-09-22",
-      "addedAt": "2025-12-30T00:54:12.211Z"
-    },
-    {
-      "albumId": "6BVlA2NLGg3OKYemGJgo2v",
-      "albumName": "White On Blonde",
-      "artistName": "Texas",
-      "releaseDate": "1997-03-02",
-      "addedAt": "2025-12-30T00:54:12.211Z"
-    },
-    {
-      "albumId": "6VNuZLF98tsRYgqlIXAVCD",
-      "albumName": "Under The Pink",
-      "artistName": "Tori Amos",
-      "releaseDate": "1994-01-31",
-      "addedAt": "2025-12-30T00:54:12.211Z"
-    },
-    {
-      "albumId": "2Rwf2nPYZQ9aIe4QXACTC7",
-      "albumName": "Live Through This",
-      "artistName": "Hole",
-      "releaseDate": "1994-01-01",
-      "addedAt": "2025-12-30T00:54:12.211Z"
-    },
-    {
-      "albumId": "3539EbNgIdEDGBKkUf4wno",
-      "albumName": "Dummy",
-      "artistName": "Portishead",
-      "releaseDate": "1994-01-01",
-      "addedAt": "2025-12-30T00:54:12.211Z"
-    },
-    {
-      "albumId": "0AP5O47kJWlaKVnnybKvQI",
-      "albumName": "Everybody Else Is Doing It, So Why Can't We?",
-      "artistName": "The Cranberries",
-      "releaseDate": "1993-03-01",
-      "addedAt": "2025-12-30T00:54:12.211Z"
-    },
-    {
-      "albumId": "2UJcKiJxNryhL050F5Z1Fk",
-      "albumName": "Nervermind",
-      "artistName": "Nirvana",
-      "releaseDate": "1991-09-26",
-      "addedAt": "2025-12-30T00:54:12.211Z"
-    },
-    {
-      "albumId": "5NKTuBLCYhN0OwqFiGdXd1",
-      "albumName": "The Kick Inside",
-      "artistName": "Kate Bush",
-      "releaseDate": "1978-02-17",
-      "addedAt": "2025-12-30T00:54:12.211Z"
-    },
-    {
-      "albumId": "1K1Uiyq8Qp9U5dRenhTaw9",
-      "albumName": "Mariner",
-      "artistName": "Cult Of Luna",
-      "releaseDate": "2016-04-08",
-      "addedAt": "2025-12-30T00:54:52.573Z"
-    },
-    {
-      "albumId": "23MOdUJkZlG971DVuEINMr",
-      "albumName": "Coral Fang (PA Version)",
-      "artistName": "The Distillers",
-      "releaseDate": "2003-10-07",
-      "addedAt": "2025-12-30T00:55:25.113Z"
-    },
-    {
-      "albumId": "7wOOA7l306K8HfBKfPoafr",
-      "albumName": "In Utero",
-      "artistName": "Nirvana",
-      "releaseDate": "1993-09-21",
-      "addedAt": "2026-01-05T17:01:07.526Z"
-    },
-    {
-      "albumId": "3SUEJULSGgBDG1j4GQhfYY",
-      "albumName": "LUX",
-      "artistName": "ROSALÍA",
-      "releaseDate": "2025-11-07",
-      "addedAt": "2026-01-06T14:16:25.921Z"
-    },
-    {
-      "albumId": "1TUVgGasFeCmA6T3fd9AHk",
-      "albumName": "No Need To Argue",
-      "artistName": "The Cranberries",
-      "releaseDate": "1994-10-03",
-      "addedAt": "2026-01-06T16:38:29.653Z"
-    },
-    {
-      "albumId": "0RjsbmAOQzWOq3fxQ002rX",
-      "albumName": "I Am The Dog",
-      "artistName": "Sir Chloe",
-      "releaseDate": "2023-05-19",
-      "addedAt": "2026-04-13T22:27:16.521Z"
-    },
-    {
-      "albumId": "5QYWYA7xLfaWdK0WKrreRK",
-      "albumName": "TRST",
-      "artistName": "TR/ST",
-      "releaseDate": "2012-02-28",
-      "addedAt": "2026-05-25T18:11:01.331Z"
-    },
-    {
-      "albumId": "5siV9C6eK0NpAqER2FfCVA",
-      "albumName": "WOR$T GIRL IN AMERICA",
-      "artistName": "Slayyyter",
-      "releaseDate": "2026-03-27",
-      "addedAt": "2026-05-26T14:44:48.825Z"
-    }
-  ]
-}
+[
+  {
+    "albumId": "5eZ1UdKMt5cs4NxGQSQ2ar",
+    "albumName": "Anamorphosee",
+    "artistName": "Mylène Farmer",
+    "releaseDate": "1995-01-01",
+    "addedAt": "2025-12-30T00:42:21.208Z"
+  },
+  {
+    "albumId": "5VZyXBOIRs0w7Rh0pWmecI",
+    "albumName": "Whisper and Wane",
+    "artistName": "Shedfromthebody",
+    "releaseDate": "2025-01-17",
+    "addedAt": "2025-12-30T00:54:12.186Z"
+  },
+  {
+    "albumId": "1Jyr6ZID2DRvvj4FLQ7Sxa",
+    "albumName": "Below The Waste",
+    "artistName": "Goat Girl",
+    "releaseDate": "2024-06-07",
+    "addedAt": "2025-12-30T00:54:12.188Z"
+  },
+  {
+    "albumId": "5KV2TIucWQfU954VB5hF1y",
+    "albumName": "Obsidian Wreath",
+    "artistName": "Infant Island",
+    "releaseDate": "2024-01-12",
+    "addedAt": "2025-12-30T00:54:12.188Z"
+  },
+  {
+    "albumId": "4uJMF1xAEk9IgPA5UbwNA6",
+    "albumName": "She Reaches Out To She Reaches Out To She",
+    "artistName": "Chelsea Wolfe",
+    "releaseDate": "2024-02-09",
+    "addedAt": "2025-12-30T00:54:12.189Z"
+  },
+  {
+    "albumId": "12vzq91UrxC2r3zcHnhaiX",
+    "albumName": "Agriculture",
+    "artistName": "Agriculture",
+    "releaseDate": "2023-07-21",
+    "addedAt": "2025-12-30T00:54:12.189Z"
+  },
+  {
+    "albumId": "2lu7c86G1ptjMJVL9upG1H",
+    "albumName": "False Lankum",
+    "artistName": "Lankum",
+    "releaseDate": "2023-03-24",
+    "addedAt": "2025-12-30T00:54:12.189Z"
+  },
+  {
+    "albumId": "2ZMViS2A6M15Z1kN6n6O8S",
+    "albumName": "Skinty Fia",
+    "artistName": "Fontaines D.C.",
+    "releaseDate": "2022-04-22",
+    "addedAt": "2025-12-30T00:54:12.189Z"
+  },
+  {
+    "albumId": "2IVL0vnFIe9uHWW1TAocC7",
+    "albumName": "PAINLESS",
+    "artistName": "Nilüfer Yanya",
+    "releaseDate": "2022-03-04",
+    "addedAt": "2025-12-30T00:54:12.190Z"
+  },
+  {
+    "albumId": "0r9awI5WRCZpwk0aVQ4bKO",
+    "albumName": "Wet Leg",
+    "artistName": "Wet Leg",
+    "releaseDate": "2022-04-08",
+    "addedAt": "2025-12-30T00:54:12.191Z"
+  },
+  {
+    "albumId": "7G7lPTcJta35qGZ8LMIJ4y",
+    "albumName": "Any Shape You Take",
+    "artistName": "Indigo De Souza",
+    "releaseDate": "2021-08-27",
+    "addedAt": "2025-12-30T00:54:12.191Z",
+    "removed": true
+  },
+  {
+    "albumId": "3OKcePcXMmswbp5BOKIMWH",
+    "albumName": "Celestial Blues",
+    "artistName": "King Woman",
+    "releaseDate": "2021-07-30",
+    "addedAt": "2025-12-30T00:54:12.191Z"
+  },
+  {
+    "albumId": "2OSANMwUl0y0wXe3w8stmv",
+    "albumName": "Silver Tongue",
+    "artistName": "TORRES",
+    "releaseDate": "2020-01-31",
+    "addedAt": "2025-12-30T00:54:12.191Z"
+  },
+  {
+    "albumId": "1OqeCBpnBINPaOni2h3hVv",
+    "albumName": "Nest",
+    "artistName": "Brutus",
+    "releaseDate": "2019-03-29",
+    "addedAt": "2025-12-30T00:54:12.191Z"
+  },
+  {
+    "albumId": "4ClyeVlAKJJViIyfVW0yQD",
+    "albumName": "Pang",
+    "artistName": "Caroline Polachek",
+    "releaseDate": "2019-10-18",
+    "addedAt": "2025-12-30T00:54:12.192Z"
+  },
+  {
+    "albumId": "3DMR3yM5crnt1dG9lLaMTZ",
+    "albumName": "MAGDALENE",
+    "artistName": "FKA twigs",
+    "releaseDate": "2019-11-08",
+    "addedAt": "2025-12-30T00:54:12.192Z"
+  },
+  {
+    "albumId": "58HB0yjdQE2MH5MrfWt4EO",
+    "albumName": "What Chaos Is Imaginary",
+    "artistName": "Girlpool",
+    "releaseDate": "2019-02-01",
+    "addedAt": "2025-12-30T00:54:12.192Z"
+  },
+  {
+    "albumId": "3950FHVErcINW3tjRgjebQ",
+    "albumName": "Pony",
+    "artistName": "Orville Peck",
+    "releaseDate": "2019-03-22",
+    "addedAt": "2025-12-30T00:54:12.192Z"
+  },
+  {
+    "albumId": "5zi7WsKlIiUXv09tbGLKsE",
+    "albumName": "IGOR",
+    "artistName": "Tyler, The Creator",
+    "releaseDate": "2019-05-17",
+    "addedAt": "2025-12-30T00:54:12.192Z"
+  },
+  {
+    "albumId": "2yVx5Ark5dEz7YN6tYX4Mu",
+    "albumName": "Wednesday",
+    "artistName": "Just Mustard",
+    "releaseDate": "2018-05-02",
+    "addedAt": "2025-12-30T00:54:12.192Z"
+  },
+  {
+    "albumId": "3BJqKT6NBFj06k5LIvjiZb",
+    "albumName": "Arca",
+    "artistName": "Arca",
+    "releaseDate": "2017-04-07",
+    "addedAt": "2025-12-30T00:54:12.192Z"
+  },
+  {
+    "albumId": "4inGs77EzuPBFwIyoHIViB",
+    "albumName": "Burst",
+    "artistName": "Brutus",
+    "releaseDate": "2017-02-24",
+    "addedAt": "2025-12-30T00:54:12.192Z"
+  },
+  {
+    "albumId": "120bhi2kgHiYc2FwI7nghO",
+    "albumName": "Powerplant",
+    "artistName": "Girlpool",
+    "releaseDate": "2017-05-12",
+    "addedAt": "2025-12-30T00:54:12.192Z"
+  },
+  {
+    "albumId": "3qPU4on4Nurlbzn607FSQ3",
+    "albumName": "Not To Disappear",
+    "artistName": "Daughter",
+    "releaseDate": "2016-01-15",
+    "addedAt": "2025-12-30T00:54:12.193Z"
+  },
+  {
+    "albumId": "1Jz7Wkxm5uzkgcJkkOtw2s",
+    "albumName": "Mémoires Vives",
+    "artistName": "Grand Blanc",
+    "releaseDate": "2016-02-19",
+    "addedAt": "2025-12-30T00:54:12.193Z"
+  },
+  {
+    "albumId": "3qZCK4Fg655xHnlgHK6H63",
+    "albumName": "Impossible Dream",
+    "artistName": "Haley Bonar",
+    "releaseDate": "2016-08-05",
+    "addedAt": "2025-12-30T00:54:12.195Z"
+  },
+  {
+    "albumId": "16i5KnBjWgUtwOO7sVMnJB",
+    "albumName": "Puberty 2",
+    "artistName": "Mitski",
+    "releaseDate": "2016-06-17",
+    "addedAt": "2025-12-30T00:54:12.195Z"
+  },
+  {
+    "albumId": "3lobKWYjPRZWL6gFLKYE4P",
+    "albumName": "California Nights",
+    "artistName": "Best Coast",
+    "releaseDate": "2015-05-04",
+    "addedAt": "2025-12-30T00:54:12.196Z"
+  },
+  {
+    "albumId": "4Lo2VjxjIJ5h7YOFwAHRxb",
+    "albumName": "Sore",
+    "artistName": "DILLY DALLY",
+    "releaseDate": "2015-10-09",
+    "addedAt": "2025-12-30T00:54:12.196Z"
+  },
+  {
+    "albumId": "0U8DeqqKDgIhIiWOdqiQXE",
+    "albumName": "Carrie & Lowell",
+    "artistName": "Sufjan Stevens",
+    "releaseDate": "2015-03-31",
+    "addedAt": "2025-12-30T00:54:12.196Z"
+  },
+  {
+    "albumId": "38c1chiHvk1wwH0CDTqRIW",
+    "albumName": "Remain",
+    "artistName": "Them Are Us Too",
+    "releaseDate": "2015-03-24",
+    "addedAt": "2025-12-30T00:54:12.196Z"
+  },
+  {
+    "albumId": "7bDxnaImZCM2TJbsI1gMVi",
+    "albumName": "Abyss",
+    "artistName": "Chelsea Wolfe",
+    "releaseDate": "2015-08-07",
+    "addedAt": "2025-12-30T00:54:12.196Z"
+  },
+  {
+    "albumId": "00tpyZkSVSu6hGp3iWp9E6",
+    "albumName": "Last War",
+    "artistName": "Haley Bonar",
+    "releaseDate": "2014-09-29",
+    "addedAt": "2025-12-30T00:54:12.197Z"
+  },
+  {
+    "albumId": "472GvzwE3EZ0i2EEaly5mX",
+    "albumName": "Bury Me At Makeout Creek",
+    "artistName": "Mitski",
+    "releaseDate": "2014-11-11",
+    "addedAt": "2025-12-30T00:54:12.197Z"
+  },
+  {
+    "albumId": "3OBbnkBJc5Pi8rTeeKPTGO",
+    "albumName": "Some Heavy Ocean",
+    "artistName": "Emma Ruth Rundle",
+    "releaseDate": "2014-05-19",
+    "addedAt": "2025-12-30T00:54:12.197Z"
+  },
+  {
+    "albumId": "6EQWzHbd3EYO8J4EAIJst4",
+    "albumName": "Are We There",
+    "artistName": "Sharon Van Etten",
+    "releaseDate": "2014-05-27",
+    "addedAt": "2025-12-30T00:54:12.197Z"
+  },
+  {
+    "albumId": "30oc4LI7xm1yMU0XqjLnai",
+    "albumName": "Fade Away",
+    "artistName": "Best Coast",
+    "releaseDate": "2013-10-22",
+    "addedAt": "2025-12-30T00:54:12.198Z"
+  },
+  {
+    "albumId": "3FEmnamAHHOiJ8hG7tMdJP",
+    "albumName": "Vertikal",
+    "artistName": "Cult Of Luna",
+    "releaseDate": "2013-01-29",
+    "addedAt": "2025-12-30T00:54:12.198Z"
+  },
+  {
+    "albumId": "4rNhJ9spDTFSXo95Ce4jFw",
+    "albumName": "Wash the Sins Not Only the Face",
+    "artistName": "Esben and the Witch",
+    "releaseDate": "2013-01-21",
+    "addedAt": "2025-12-30T00:54:12.198Z"
+  },
+  {
+    "albumId": "67Gt8fh4sBgkLnAYChZTz4",
+    "albumName": "bounty",
+    "artistName": "iamamiwhoami",
+    "releaseDate": "2013-06-03",
+    "addedAt": "2025-12-30T00:54:12.199Z"
+  },
+  {
+    "albumId": "0aMC5DDAF86GvYNPaivEKd",
+    "albumName": "Silence Yourself",
+    "artistName": "Savages",
+    "releaseDate": "2013-05-06",
+    "addedAt": "2025-12-30T00:54:12.199Z"
+  },
+  {
+    "albumId": "4rpm9Ez8nfVsQvNmHDbgyp",
+    "albumName": "Pain Is Beauty",
+    "artistName": "Chelsea Wolfe",
+    "releaseDate": "2013-09-03",
+    "addedAt": "2025-12-30T00:54:12.199Z"
+  },
+  {
+    "albumId": "3ML5dQEdtRzUAAeNIiHdVG",
+    "albumName": "WIXIW",
+    "artistName": "Liars",
+    "releaseDate": "2013-10-01",
+    "addedAt": "2025-12-30T00:54:12.199Z"
+  },
+  {
+    "albumId": "5Q4twEkKreQ54pnMSBKYrU",
+    "albumName": "Feel It Break",
+    "artistName": "Austra",
+    "releaseDate": "2011-05-17",
+    "addedAt": "2025-12-30T00:54:12.199Z"
+  },
+  {
+    "albumId": "1VSNOi4dAvNc5sT9R0U6ZQ",
+    "albumName": "Anna Calvi",
+    "artistName": "Anna Calvi",
+    "releaseDate": "2011-01-17",
+    "addedAt": "2025-12-30T00:54:12.199Z"
+  },
+  {
+    "albumId": "7CDvibYA9VE63MYupv4lMi",
+    "albumName": "Both Ways Open Jaws",
+    "artistName": "The Dø",
+    "releaseDate": "2011-03-07",
+    "addedAt": "2025-12-30T00:54:12.199Z"
+  },
+  {
+    "albumId": "5qAwPhkurqnWvvmHgOoZ6n",
+    "albumName": "Violet Cries",
+    "artistName": "Esben and the Witch",
+    "releaseDate": "2011-01-31",
+    "addedAt": "2025-12-30T00:54:12.199Z"
+  },
+  {
+    "albumId": "616gMygfSCfBq8uk8jbgyh",
+    "albumName": "Grown Unknown",
+    "artistName": "Lia Ices",
+    "releaseDate": "2011-01-25",
+    "addedAt": "2025-12-30T00:54:12.199Z"
+  },
+  {
+    "albumId": "7fTKQdfuGQuRd5RYJfpaZB",
+    "albumName": "NYX",
+    "artistName": "Mansfield.TYA",
+    "releaseDate": "2011-10-17",
+    "addedAt": "2025-12-30T00:54:12.199Z"
+  },
+  {
+    "albumId": "716fnrS2qXChPC3J2X73pK",
+    "albumName": "The English Riviera",
+    "artistName": "Metronomy",
+    "releaseDate": "2011-04-11",
+    "addedAt": "2025-12-30T00:54:12.199Z"
+  },
+  {
+    "albumId": "6FyvLNb26bBDQ9ViXlEy5i",
+    "albumName": "Apokalypsis",
+    "artistName": "Chelsea Wolfe",
+    "releaseDate": "2011-08-23",
+    "addedAt": "2025-12-30T00:54:12.200Z"
+  },
+  {
+    "albumId": "1GjjBpY2iDwSQs5bykQI5e",
+    "albumName": "Diamond Eyes",
+    "artistName": "Deftones",
+    "releaseDate": "2010-04-30",
+    "addedAt": "2025-12-30T00:54:12.200Z"
+  },
+  {
+    "albumId": "670h50t8E3LwP2bGqxGi6E",
+    "albumName": "Total Life Forever",
+    "artistName": "Foals",
+    "releaseDate": "2010-05-10",
+    "addedAt": "2025-12-30T00:54:12.200Z"
+  },
+  {
+    "albumId": "0bVZZUftetJmkK0Ms8S6Z0",
+    "albumName": "In Evening Air",
+    "artistName": "Future Islands",
+    "releaseDate": "2010-05-04",
+    "addedAt": "2025-12-30T00:54:12.200Z"
+  },
+  {
+    "albumId": "263qnpEbEbDvSrHvUSWgyk",
+    "albumName": "Wall Of Arms",
+    "artistName": "The Maccabees",
+    "releaseDate": "2010-01-01",
+    "addedAt": "2025-12-30T00:54:12.200Z"
+  },
+  {
+    "albumId": "3dEgxewsJAZ6s2nVUieNA5",
+    "albumName": "Treats",
+    "artistName": "Sleigh Bells",
+    "releaseDate": "2010-05-11",
+    "addedAt": "2025-12-30T00:54:12.201Z"
+  },
+  {
+    "albumId": "4kRMCapj9nEyBWnM0kc9OX",
+    "albumName": "The Age of Adz",
+    "artistName": "Sufjan Stevens",
+    "releaseDate": "2010-10-12",
+    "addedAt": "2025-12-30T00:54:12.201Z"
+  },
+  {
+    "albumId": "7mfSdEokzQjI5AxwrRauZv",
+    "albumName": "Epic",
+    "artistName": "Sharon Van Etten",
+    "releaseDate": "2010-09-21",
+    "addedAt": "2025-12-30T00:54:12.201Z"
+  },
+  {
+    "albumId": "5j8nonYjFfm4KFso0wVqpN",
+    "albumName": "In This Light and On This Evening",
+    "artistName": "Editors",
+    "releaseDate": "2010-02-02",
+    "addedAt": "2025-12-30T00:54:12.202Z"
+  },
+  {
+    "albumId": "0XwEfJMejqTpgalJwtp1CM",
+    "albumName": "Fever Ray",
+    "artistName": "Fever Ray",
+    "releaseDate": "2009-01-12",
+    "addedAt": "2025-12-30T00:54:12.202Z"
+  },
+  {
+    "albumId": "5s9ri2Rr4nXdTFKUFjGkMe",
+    "albumName": "Lungs",
+    "artistName": "Florence + The Machine",
+    "releaseDate": "2009-07-03",
+    "addedAt": "2025-12-30T00:54:12.203Z"
+  },
+  {
+    "albumId": "6FIFqclBriPCb0SjWDaHIk",
+    "albumName": "Veckatimest",
+    "artistName": "Grizzly Bear",
+    "releaseDate": "2009-05-24",
+    "addedAt": "2025-12-30T00:54:12.204Z"
+  },
+  {
+    "albumId": "1yeZs16HEgGVwy3qZRMQTs",
+    "albumName": "A Balloon Called Moaning",
+    "artistName": "The Joy Formidable",
+    "releaseDate": "2009-01-01",
+    "addedAt": "2025-12-30T00:54:12.204Z"
+  },
+  {
+    "albumId": "0uOyWZz1ZnQczjvuF9SWWf",
+    "albumName": "Box of Secrets",
+    "artistName": "Blood Red Shoes",
+    "releaseDate": "2008-01-01",
+    "addedAt": "2025-12-30T00:54:12.205Z"
+  },
+  {
+    "albumId": "18JyZd2XLdT2rmekw6EwoS",
+    "albumName": "Third",
+    "artistName": "Portishead",
+    "releaseDate": "2008-01-01",
+    "addedAt": "2025-12-30T00:54:12.205Z"
+  },
+  {
+    "albumId": "4QjGIZZqvNrdkgw4LZKLZK",
+    "albumName": "The Con",
+    "artistName": "Tegan and Sara",
+    "releaseDate": "2007-07-24",
+    "addedAt": "2025-12-30T00:54:12.206Z"
+  },
+  {
+    "albumId": "3lgIiynXHTZYaSvS1ZrMxG",
+    "albumName": "Show Your Bones",
+    "artistName": "Yeah Yeah Yeahs",
+    "releaseDate": "2006-01-01",
+    "addedAt": "2025-12-30T00:54:12.206Z"
+  },
+  {
+    "albumId": "5YGnygLN1mVSJQkvP04OJi",
+    "albumName": "Playing the Angel",
+    "artistName": "Depeche Mode",
+    "releaseDate": "2005-10-17",
+    "addedAt": "2025-12-30T00:54:12.206Z"
+  },
+  {
+    "albumId": "6ZeO3WNF2Gti8ZQnXog5SQ",
+    "albumName": "Apologies to the Queen Mary",
+    "artistName": "Wolf Parade",
+    "releaseDate": "2005-09-27",
+    "addedAt": "2025-12-30T00:54:12.206Z"
+  },
+  {
+    "albumId": "6ZB8qaR9JNuS0Q0bG1nbcH",
+    "albumName": "Funeral",
+    "artistName": "Arcade Fire",
+    "releaseDate": "2004-06-16",
+    "addedAt": "2025-12-30T00:54:12.207Z"
+  },
+  {
+    "albumId": "5NUna7cH8t5yLMgBxmW4NL",
+    "albumName": "Antics",
+    "artistName": "Interpol",
+    "releaseDate": "2004-09-27",
+    "addedAt": "2025-12-30T00:54:12.207Z"
+  },
+  {
+    "albumId": "2yNhqBKfZPzrxRJqGMbSz9",
+    "albumName": "So Jealous",
+    "artistName": "Tegan and Sara",
+    "releaseDate": "2004-09-14",
+    "addedAt": "2025-12-30T00:54:12.207Z"
+  },
+  {
+    "albumId": "4hBTxv4QRPePXCFcEI7Vjp",
+    "albumName": "blink-182",
+    "artistName": "blink-182",
+    "releaseDate": "2003-11-01",
+    "addedAt": "2025-12-30T00:54:12.207Z"
+  },
+  {
+    "albumId": "29GVlUeSHwBCbf31VaGaCO",
+    "albumName": "Scarlet's Walk",
+    "artistName": "Tori Amos",
+    "releaseDate": "2002-10-28",
+    "addedAt": "2025-12-30T00:54:12.209Z"
+  },
+  {
+    "albumId": "2OhUWm2KJay2YWeItU9YcH",
+    "albumName": "Turn On The Bright Lights",
+    "artistName": "Interpol",
+    "releaseDate": "2002-08-20",
+    "addedAt": "2025-12-30T00:54:12.209Z"
+  },
+  {
+    "albumId": "32H8ZczfX12FWWODVVr6NQ",
+    "albumName": "Untouchables",
+    "artistName": "Korn",
+    "releaseDate": "2002",
+    "addedAt": "2025-12-30T00:54:12.209Z"
+  },
+  {
+    "albumId": "6jWde94ln40epKIQCd8XUh",
+    "albumName": "Toxicity",
+    "artistName": "System Of A Down",
+    "releaseDate": "2001-09-04",
+    "addedAt": "2025-12-30T00:54:12.209Z"
+  },
+  {
+    "albumId": "6PFPjumGRpZnBzqnDci6qJ",
+    "albumName": "Hybrid Theory",
+    "artistName": "Linkin Park",
+    "releaseDate": "2000-10-24",
+    "addedAt": "2025-12-30T00:54:12.209Z"
+  },
+  {
+    "albumId": "3UBfrm1LGAdOZflgsmCsM2",
+    "albumName": "Return Of Saturn",
+    "artistName": "No Doubt",
+    "releaseDate": "2000-01-01",
+    "addedAt": "2025-12-30T00:54:12.209Z"
+  },
+  {
+    "albumId": "0PhJJToPch4jCjrfQjyarw",
+    "albumName": "Black Market Music",
+    "artistName": "Placebo",
+    "releaseDate": "2000-10-09",
+    "addedAt": "2025-12-30T00:54:12.210Z"
+  },
+  {
+    "albumId": "02qgAJm7p9AXtFNHhDTYdu",
+    "albumName": "Innamoramento",
+    "artistName": "Mylène Farmer",
+    "releaseDate": "1999-04-07",
+    "addedAt": "2025-12-30T00:54:12.210Z"
+  },
+  {
+    "albumId": "77Aoown5BoLvQJnZJBICPO",
+    "albumName": "From the Choir Girl Hotel",
+    "artistName": "Tori Amos",
+    "releaseDate": "1998-04-24",
+    "addedAt": "2025-12-30T00:54:12.210Z"
+  },
+  {
+    "albumId": "66oRYombEmQmugi8uWuans",
+    "albumName": "Version 2.0",
+    "artistName": "Garbage",
+    "releaseDate": "1998-01-01",
+    "addedAt": "2025-12-30T00:54:12.210Z"
+  },
+  {
+    "albumId": "2KE8WCHtD8qnAxXeIzNEId",
+    "albumName": "Celebrity Skin",
+    "artistName": "Hole",
+    "releaseDate": "1998-01-01",
+    "addedAt": "2025-12-30T00:54:12.210Z"
+  },
+  {
+    "albumId": "6cuNyrSmRjBeekioLdLkvI",
+    "albumName": "Ray of Light",
+    "artistName": "Madonna",
+    "releaseDate": "1998-03-03",
+    "addedAt": "2025-12-30T00:54:12.210Z"
+  },
+  {
+    "albumId": "4gNjfAA5axfUEBbHJoAKBO",
+    "albumName": "Gran Turismo",
+    "artistName": "The Cardigans",
+    "releaseDate": "1998-10-01",
+    "addedAt": "2025-12-30T00:54:12.210Z"
+  },
+  {
+    "albumId": "0h19Ty9F2Ma8pKkRdx17UT",
+    "albumName": "Homogenic",
+    "artistName": "Björk",
+    "releaseDate": "1997-09-22",
+    "addedAt": "2025-12-30T00:54:12.211Z"
+  },
+  {
+    "albumId": "6BVlA2NLGg3OKYemGJgo2v",
+    "albumName": "White On Blonde",
+    "artistName": "Texas",
+    "releaseDate": "1997-03-02",
+    "addedAt": "2025-12-30T00:54:12.211Z"
+  },
+  {
+    "albumId": "6VNuZLF98tsRYgqlIXAVCD",
+    "albumName": "Under The Pink",
+    "artistName": "Tori Amos",
+    "releaseDate": "1994-01-31",
+    "addedAt": "2025-12-30T00:54:12.211Z"
+  },
+  {
+    "albumId": "2Rwf2nPYZQ9aIe4QXACTC7",
+    "albumName": "Live Through This",
+    "artistName": "Hole",
+    "releaseDate": "1994-01-01",
+    "addedAt": "2025-12-30T00:54:12.211Z"
+  },
+  {
+    "albumId": "3539EbNgIdEDGBKkUf4wno",
+    "albumName": "Dummy",
+    "artistName": "Portishead",
+    "releaseDate": "1994-01-01",
+    "addedAt": "2025-12-30T00:54:12.211Z"
+  },
+  {
+    "albumId": "0AP5O47kJWlaKVnnybKvQI",
+    "albumName": "Everybody Else Is Doing It, So Why Can't We?",
+    "artistName": "The Cranberries",
+    "releaseDate": "1993-03-01",
+    "addedAt": "2025-12-30T00:54:12.211Z"
+  },
+  {
+    "albumId": "2UJcKiJxNryhL050F5Z1Fk",
+    "albumName": "Nervermind",
+    "artistName": "Nirvana",
+    "releaseDate": "1991-09-26",
+    "addedAt": "2025-12-30T00:54:12.211Z"
+  },
+  {
+    "albumId": "5NKTuBLCYhN0OwqFiGdXd1",
+    "albumName": "The Kick Inside",
+    "artistName": "Kate Bush",
+    "releaseDate": "1978-02-17",
+    "addedAt": "2025-12-30T00:54:12.211Z"
+  },
+  {
+    "albumId": "1K1Uiyq8Qp9U5dRenhTaw9",
+    "albumName": "Mariner",
+    "artistName": "Cult Of Luna",
+    "releaseDate": "2016-04-08",
+    "addedAt": "2025-12-30T00:54:52.573Z"
+  },
+  {
+    "albumId": "23MOdUJkZlG971DVuEINMr",
+    "albumName": "Coral Fang (PA Version)",
+    "artistName": "The Distillers",
+    "releaseDate": "2003-10-07",
+    "addedAt": "2025-12-30T00:55:25.113Z"
+  },
+  {
+    "albumId": "7wOOA7l306K8HfBKfPoafr",
+    "albumName": "In Utero",
+    "artistName": "Nirvana",
+    "releaseDate": "1993-09-21",
+    "addedAt": "2026-01-05T17:01:07.526Z"
+  },
+  {
+    "albumId": "3SUEJULSGgBDG1j4GQhfYY",
+    "albumName": "LUX",
+    "artistName": "ROSALÍA",
+    "releaseDate": "2025-11-07",
+    "addedAt": "2026-01-06T14:16:25.921Z"
+  },
+  {
+    "albumId": "1TUVgGasFeCmA6T3fd9AHk",
+    "albumName": "No Need To Argue",
+    "artistName": "The Cranberries",
+    "releaseDate": "1994-10-03",
+    "addedAt": "2026-01-06T16:38:29.653Z"
+  },
+  {
+    "albumId": "0RjsbmAOQzWOq3fxQ002rX",
+    "albumName": "I Am The Dog",
+    "artistName": "Sir Chloe",
+    "releaseDate": "2023-05-19",
+    "addedAt": "2026-04-13T22:27:16.521Z"
+  },
+  {
+    "albumId": "5QYWYA7xLfaWdK0WKrreRK",
+    "albumName": "TRST",
+    "artistName": "TR/ST",
+    "releaseDate": "2012-02-28",
+    "addedAt": "2026-05-25T18:11:01.331Z"
+  },
+  {
+    "albumId": "5siV9C6eK0NpAqER2FfCVA",
+    "albumName": "WOR$T GIRL IN AMERICA",
+    "artistName": "Slayyyter",
+    "releaseDate": "2026-03-27",
+    "addedAt": "2026-05-26T14:44:48.825Z"
+  }
+]
