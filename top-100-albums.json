@@ -312,7 +312,8 @@
     "addedAt": "2025-12-30T00:54:12.196Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e024a15aba2c22771b5bdad8dfd",
     "comment": null,
-    "bestTrack": null
+    "bestTrack": null,
+    "removed": true
   },
   {
     "albumId": "7bDxnaImZCM2TJbsI1gMVi",
