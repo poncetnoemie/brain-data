@@ -1026,6 +1026,10 @@
     "addedAt": "2026-05-26T14:44:48.825Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e024c6a0c9499470002aa8ba96f",
     "comment": null,
-    "bestTrack": null
+    "bestTrack": {
+      "id": "5GgxJ8afPLKHg4MHIxP0av",
+      "name": "UNKNOWN LOVERZ",
+      "trackNumber": 8
+    }
   }
 ]
