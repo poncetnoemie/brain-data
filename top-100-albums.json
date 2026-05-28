@@ -1039,7 +1039,11 @@
     "releaseDate": "2018-06-29",
     "cover": "https://i.scdn.co/image/ab67616d00001e0271d3ca8ae329913c4bacf4c8",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "3Db7Pt58Ln021HniGWH3Mv",
+      "name": "Floor",
+      "trackNumber": 3
+    },
     "addedAt": "2026-05-28T13:55:10.206Z"
   }
 ]
