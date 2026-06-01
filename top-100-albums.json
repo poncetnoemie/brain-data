@@ -276,7 +276,11 @@
     "addedAt": "2025-12-30T00:54:12.192Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e022e263ac3c1b968364df1d697",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "5rOzcHIZaF038jMeHkUZR0",
+      "name": "Reverie",
+      "trackNumber": 5
+    },
     "id": "3BJqKT6NBFj06k5LIvjiZb"
   },
   {
