@@ -379,7 +379,11 @@
     "addedAt": "2025-12-30T00:54:12.196Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e024dfbe36486a0e8655b119660",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "4rDpP5uHieSTcblNk7wQ2y",
+      "name": "Blue Bucket of Gold",
+      "trackNumber": 11
+    },
     "id": "0U8DeqqKDgIhIiWOdqiQXE"
   },
   {
