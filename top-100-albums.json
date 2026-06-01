@@ -81,7 +81,11 @@
     "addedAt": "2025-12-30T00:54:12.189Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e02c5ea103218fe2f50b610f5cc",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "21gCYJP9C9GUNI4jCZhheZ",
+      "name": "Go Dig My Grave",
+      "trackNumber": 1
+    },
     "id": "2lu7c86G1ptjMJVL9upG1H"
   },
   {
