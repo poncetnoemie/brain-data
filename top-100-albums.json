@@ -33,7 +33,11 @@
     "addedAt": "2025-12-30T00:54:12.188Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e027a94afb9354841e3e528ec19",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "7i9d5GUNeth24nWGT1nnJ9",
+      "name": "words fell out",
+      "trackNumber": 3
+    },
     "id": "1Jyr6ZID2DRvvj4FLQ7Sxa"
   },
   {
