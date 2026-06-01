@@ -52,7 +52,11 @@
     "addedAt": "2025-12-30T00:54:12.188Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e02d2eb3a38673be91803f0f5b1",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "0PYKx3I5hzFS0KCu38OHYc",
+      "name": "Veil",
+      "trackNumber": 5
+    },
     "id": "5KV2TIucWQfU954VB5hF1y"
   },
   {
