@@ -1,0 +1,2996 @@
+{
+  "associations": [
+    {
+      "tagId": "2",
+      "itemId": "faetooth",
+      "itemType": "artist",
+      "itemName": "Faetooth",
+      "associatedAt": "2025-11-11T17:15:47.856Z"
+    },
+    {
+      "tagId": "5",
+      "itemId": "6rniTPs9zN26kYnkPdFl1U",
+      "itemType": "artist",
+      "itemName": "Sir Chloe",
+      "associatedAt": "2025-11-11T21:39:33.257Z"
+    },
+    {
+      "tagId": "4",
+      "itemId": "6rniTPs9zN26kYnkPdFl1U",
+      "itemType": "artist",
+      "itemName": "Sir Chloe",
+      "associatedAt": "2025-11-11T22:13:37.539Z"
+    },
+    {
+      "tagId": "3",
+      "itemId": "6rniTPs9zN26kYnkPdFl1U",
+      "itemType": "artist",
+      "itemName": "Sir Chloe",
+      "associatedAt": "2025-11-11T22:24:27.800Z"
+    },
+    {
+      "tagId": "5",
+      "itemId": "7CddNoU6nKEW7UpcIlJF9n",
+      "itemType": "artist",
+      "itemName": "Greet Death",
+      "associatedAt": "2025-11-12T00:20:26.577Z"
+    },
+    {
+      "tagId": "5",
+      "itemId": "23Skjj6LyKEVkNIUFrLBUY",
+      "itemType": "artist",
+      "itemName": "Agriculture",
+      "associatedAt": "2025-11-12T00:23:37.927Z"
+    },
+    {
+      "tagId": "6",
+      "itemId": "23Skjj6LyKEVkNIUFrLBUY",
+      "itemType": "artist",
+      "itemName": "Agriculture",
+      "associatedAt": "2025-11-12T00:41:56.961Z"
+    },
+    {
+      "tagId": "6",
+      "itemId": "3DMR3yM5crnt1dG9lLaMTZ",
+      "itemType": "artist",
+      "itemName": "FKA twigs",
+      "associatedAt": "2025-11-12T10:38:55.086Z"
+    },
+    {
+      "tagId": "7",
+      "itemId": "3DMR3yM5crnt1dG9lLaMTZ",
+      "itemType": "artist",
+      "itemName": "FKA twigs",
+      "associatedAt": "2025-11-12T10:39:16.162Z"
+    },
+    {
+      "tagId": "7",
+      "itemId": "3SUEJULSGgBDG1j4GQhfYY",
+      "itemType": "artist",
+      "itemName": "ROSALÍA",
+      "associatedAt": "2025-11-12T10:39:46.791Z"
+    },
+    {
+      "tagId": "7",
+      "itemId": "3OEeigyzeq8B1KexshYRwC",
+      "itemType": "artist",
+      "itemName": "Björk",
+      "associatedAt": "2025-11-12T10:40:51.404Z"
+    },
+    {
+      "tagId": "5",
+      "itemId": "6U5DzgCUo2V2M43cMW6i6K",
+      "itemType": "album",
+      "itemName": "Swallow the Knife",
+      "artistName": "Sir Chloe",
+      "associatedAt": "2025-11-12T13:38:52.727Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "6U5DzgCUo2V2M43cMW6i6K",
+      "itemType": "album",
+      "itemName": "Swallow the Knife",
+      "artistName": "Sir Chloe",
+      "associatedAt": "2025-11-12T13:39:03.686Z"
+    },
+    {
+      "tagId": "5",
+      "itemId": "41t8uhQybqKfSCDtbeZ7yd",
+      "itemType": "track",
+      "itemName": "Eyes",
+      "artistName": "Sir Chloe",
+      "associatedAt": "2025-11-12T13:51:12.717Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "0DGh2Tj0Ar6XhcxxUHk66T",
+      "itemType": "track",
+      "itemName": "Cake",
+      "artistName": "Sir Chloe",
+      "associatedAt": "2025-11-12T18:09:10.578Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "1NoYnWzMQ1mY67jo7gDakq",
+      "itemType": "track",
+      "itemName": "Bodhidharma",
+      "artistName": "Agriculture",
+      "associatedAt": "2025-11-12T18:26:25.892Z"
+    },
+    {
+      "tagId": "11",
+      "itemId": "1NoYnWzMQ1mY67jo7gDakq",
+      "itemType": "track",
+      "itemName": "Bodhidharma",
+      "artistName": "Agriculture",
+      "associatedAt": "2025-11-12T18:26:42.026Z"
+    },
+    {
+      "tagId": "12",
+      "itemId": "0RjsbmAOQzWOq3fxQ002rX",
+      "itemType": "album",
+      "itemName": "I Am The Dog",
+      "artistName": "Sir Chloe",
+      "associatedAt": "2025-11-13T15:42:44.176Z"
+    },
+    {
+      "tagId": "9",
+      "itemId": "7j2exhvPCgzRQT9Hs6AAJ8",
+      "itemType": "track",
+      "itemName": "Feral Love",
+      "artistName": "Chelsea Wolfe",
+      "associatedAt": "2025-11-13T15:47:17.107Z"
+    },
+    {
+      "tagId": "14",
+      "itemId": "4U8qfw3a0YzhrAqxC1ptyt",
+      "itemType": "track",
+      "itemName": "Cactus Practice",
+      "artistName": "Tori Amos",
+      "associatedAt": "2025-11-13T16:34:41.746Z"
+    },
+    {
+      "tagId": "14",
+      "itemId": "7psrQmK0Xa0CGE89RnhfdT",
+      "itemType": "track",
+      "itemName": "SnowBlind",
+      "artistName": "Tori Amos",
+      "associatedAt": "2025-11-13T16:45:11.729Z"
+    },
+    {
+      "tagId": "14",
+      "itemId": "2IZlJ53urCoHagye4M4Vjc",
+      "itemType": "track",
+      "itemName": "Job's Coffin",
+      "artistName": "Tori Amos",
+      "associatedAt": "2025-11-13T16:45:36.688Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "08dsnxebW6wZCu8NpmK3kn",
+      "itemType": "album",
+      "itemName": "Ocean to Ocean",
+      "artistName": "Tori Amos",
+      "associatedAt": "2025-11-13T17:39:52.140Z"
+    },
+    {
+      "tagId": "9",
+      "itemId": "4pOXxq4wBUSl7luxoizF3d",
+      "itemType": "track",
+      "itemName": "The Hole",
+      "artistName": "Sir Chloe",
+      "associatedAt": "2025-11-13T18:00:32.203Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "4yrGFOEOShLcK5uQAoLxCF",
+      "itemType": "track",
+      "itemName": "Forgiving",
+      "artistName": "Sir Chloe",
+      "associatedAt": "2025-11-13T18:00:41.608Z"
+    },
+    {
+      "tagId": "15",
+      "itemId": "4yrGFOEOShLcK5uQAoLxCF",
+      "itemType": "track",
+      "itemName": "Forgiving",
+      "artistName": "Sir Chloe",
+      "associatedAt": "2025-11-13T18:02:43.189Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "79ZYYTpqesBlTe4hrWiO8b",
+      "itemType": "album",
+      "itemName": "Native Invader",
+      "artistName": "Tori Amos",
+      "associatedAt": "2025-11-13T22:01:18.393Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "0tl0zRaIkiKHgwavbvQN35",
+      "itemType": "album",
+      "itemName": "Until Liars Fear You",
+      "artistName": "Wilderness Hymnal",
+      "associatedAt": "2025-11-13T22:01:48.256Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "0kkamqFFUDYRuQWwQ7SJkA",
+      "itemType": "album",
+      "itemName": "Unrepentant Geraldines",
+      "artistName": "Tori Amos",
+      "associatedAt": "2025-11-13T22:15:39.751Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "2hGp4zeWcLdeQ0iq7Uj52Q",
+      "itemType": "album",
+      "itemName": "Short Movie (Director's Cut)",
+      "artistName": "Laura Marling",
+      "associatedAt": "2025-11-13T22:15:55.153Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "11Y2eh6LX6am0lYyjfCW3W",
+      "itemType": "album",
+      "itemName": "Patterns in Repeat",
+      "artistName": "Laura Marling",
+      "associatedAt": "2025-11-13T22:16:04.158Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "6l9AdRG0yVneRu5PNbAvRZ",
+      "itemType": "album",
+      "itemName": "A Creature I Don't Know",
+      "artistName": "Laura Marling",
+      "associatedAt": "2025-11-13T22:16:23.676Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "6GqOWek4cF5UVOEm8q5Vfb",
+      "itemType": "album",
+      "itemName": "The Ark Work",
+      "artistName": "Liturgy",
+      "associatedAt": "2025-11-13T22:16:31.975Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "4a2XdKkEDVvfniwTu8pSMb",
+      "itemType": "album",
+      "itemName": "H.A.Q.Q.",
+      "artistName": "Liturgy",
+      "associatedAt": "2025-11-13T22:16:41.471Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "5Q84MVz6dS62QsAzBiFTwY",
+      "itemType": "album",
+      "itemName": "Origin of the Alimonies",
+      "artistName": "Liturgy",
+      "associatedAt": "2025-11-13T22:16:50.613Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "7udyKNcNdq5jZrw0lgubMs",
+      "itemType": "album",
+      "itemName": "The Sleeping City",
+      "artistName": "An Abstract Illusion",
+      "associatedAt": "2025-11-13T22:52:55.540Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "7g4ra4vBpy7fKsgNtlHRlE",
+      "itemType": "album",
+      "itemName": "The Cave",
+      "artistName": "Joy Shannon",
+      "associatedAt": "2025-11-13T22:53:06.276Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "1FNdKMFQrF3OdEGrqHvO8M",
+      "itemType": "album",
+      "itemName": "Bedrock",
+      "artistName": "Hannah Frances",
+      "associatedAt": "2025-11-13T22:53:48.500Z"
+    },
+    {
+      "tagId": "17",
+      "itemId": "0Gi6zPDPG6VWFnZwSxPHgO",
+      "itemType": "track",
+      "itemName": "Math Equation",
+      "artistName": "Austra",
+      "associatedAt": "2025-11-14T12:52:11.454Z"
+    },
+    {
+      "tagId": "18",
+      "itemId": "4fP4BZ2g09nhgK323T62Sb",
+      "itemType": "track",
+      "itemName": "Blindsided",
+      "artistName": "Austra",
+      "associatedAt": "2025-11-14T13:06:48.798Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "33IBQKB1tHkVqTNb2SDREd",
+      "itemType": "track",
+      "itemName": "Fallen Cloud",
+      "artistName": "Austra",
+      "associatedAt": "2025-11-14T13:07:03.791Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "0v1sQbOCM2xDdIYA0XYapM",
+      "itemType": "album",
+      "itemName": "EUSEXUA Afterglow",
+      "artistName": "FKA twigs",
+      "associatedAt": "2025-11-14T13:18:04.736Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "49MiJYe7d4CfKDeJFqAWal",
+      "itemType": "album",
+      "itemName": "HEROINA",
+      "artistName": "Sevdaliza",
+      "associatedAt": "2025-11-14T14:59:24.310Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "11SgqXi0gp8Q4LVH0UfGhN",
+      "itemType": "album",
+      "itemName": "Ash Souvenir",
+      "artistName": "Ragana",
+      "associatedAt": "2025-11-15T01:35:48.867Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "3RiP62xwY0dV8TfB1vcKzh",
+      "itemType": "album",
+      "itemName": "Saturnian Bloodstorm",
+      "artistName": "Lamp of Murmuur",
+      "associatedAt": "2025-11-15T01:41:45.498Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "5CuxQwnOGZ8U3bW3w4uKZ7",
+      "itemType": "album",
+      "itemName": "Stygian Bough Volume II",
+      "artistName": "Bell Witch",
+      "associatedAt": "2025-11-15T01:44:50.791Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "7DZYLikAfA0lSqEMMyTkl6",
+      "itemType": "album",
+      "itemName": "Failures",
+      "artistName": "Katie Malco",
+      "associatedAt": "2025-11-16T15:00:04.315Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "1odBPCG4oYPIUto81Kf8PG",
+      "itemType": "track",
+      "itemName": "State",
+      "artistName": "Laura Stevenson",
+      "associatedAt": "2025-11-16T15:03:10.322Z"
+    },
+    {
+      "tagId": "19",
+      "itemId": "1odBPCG4oYPIUto81Kf8PG",
+      "itemType": "track",
+      "itemName": "State",
+      "artistName": "Laura Stevenson",
+      "associatedAt": "2025-11-16T15:03:25.589Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "3G77BQuJy3jahjdkKQNNNM",
+      "itemType": "album",
+      "itemName": "CAPRISONGS",
+      "artistName": "FKA twigs",
+      "associatedAt": "2025-11-16T22:48:39.951Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "5gJSC3H04ubhi6BTtdViqR",
+      "itemType": "album",
+      "itemName": "Gag Order",
+      "artistName": "Kesha",
+      "associatedAt": "2025-11-17T00:16:40.000Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "5hOFWwfkeWetTEnMTbX4q9",
+      "itemType": "album",
+      "itemName": "Eat The Acid",
+      "artistName": "Kesha",
+      "associatedAt": "2025-11-17T00:17:37.490Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "5UADNHI93W6ovqndPdWb23",
+      "itemType": "album",
+      "itemName": "Tome II: Ignis Sacer",
+      "artistName": "Vígljós",
+      "associatedAt": "2025-11-17T15:59:09.279Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "68DJuCdpHiQCrMVW7nVbWr",
+      "itemType": "album",
+      "itemName": "Tome I: apidæ",
+      "artistName": "Vígljós",
+      "associatedAt": "2025-11-17T17:46:48.578Z"
+    },
+    {
+      "tagId": "5",
+      "itemId": "3950FHVErcINW3tjRgjebQ",
+      "itemType": "album",
+      "itemName": "Pony",
+      "artistName": "Orville Peck",
+      "associatedAt": "2025-11-17T21:49:38.036Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "/Users/nogrenouille/Music/Joanna Newsom/(2006) Ys",
+      "itemType": "album",
+      "itemName": "Ys",
+      "artistName": "joanna newsom",
+      "associatedAt": "2025-11-17T23:48:16.814Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "7FHDZWOdnV8WgMaiy7dioZ",
+      "itemType": "track",
+      "itemName": "Shattermind",
+      "artistName": "Shedfromthebody",
+      "associatedAt": "2025-11-18T16:14:37.999Z"
+    },
+    {
+      "tagId": "21",
+      "itemId": "7FHDZWOdnV8WgMaiy7dioZ",
+      "itemType": "track",
+      "itemName": "Shattermind",
+      "artistName": "Shedfromthebody",
+      "associatedAt": "2025-11-18T16:15:33.248Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "3fwSyVNEGlsbX9B1M26hAl",
+      "itemType": "album",
+      "itemName": "Mutant",
+      "artistName": "Arca",
+      "associatedAt": "2025-11-20T22:02:14.257Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "3zjvJv9tqkQ5kdX9pOpT6U",
+      "itemType": "album",
+      "itemName": "Powders",
+      "artistName": "Eartheater",
+      "associatedAt": "2025-11-20T22:48:16.107Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "2lboLn4fGfbE28GaSAIHyx",
+      "itemType": "track",
+      "itemName": "Angel In Your Eye",
+      "artistName": "Austra",
+      "associatedAt": "2025-11-20T23:37:20.465Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "5bkLYpiXnmePeQDjBkGrWi",
+      "itemType": "album",
+      "itemName": "Come on Everybody, Let's Do Nothing!",
+      "artistName": "IAN",
+      "associatedAt": "2025-11-21T00:47:13.380Z"
+    },
+    {
+      "tagId": "22",
+      "itemId": "3Si0hc3hxlehGK53jYjgVF",
+      "itemType": "track",
+      "itemName": "Sticky",
+      "artistName": "FKA twigs",
+      "associatedAt": "2025-11-21T00:47:55.911Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "7rey4d8RBJj7nCKO4vzQbM",
+      "itemType": "album",
+      "itemName": "A Single Flower",
+      "artistName": "We Lost The Sea",
+      "associatedAt": "2025-11-21T00:53:56.541Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "1CmdanwOGnV5QevtJQL6bN",
+      "itemType": "album",
+      "itemName": "caroline 2",
+      "artistName": "caroline",
+      "associatedAt": "2025-11-21T23:57:23.900Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "3jq2MZ930lWP0fZIyWFWvg",
+      "itemType": "album",
+      "itemName": "erer",
+      "artistName": "Glitterer",
+      "associatedAt": "2025-11-22T16:59:28.234Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "2eWevmwjCu5OVtu1wPb07e",
+      "itemType": "album",
+      "itemName": "Reflections of a Floating World",
+      "artistName": "Elder",
+      "associatedAt": "2025-11-22T21:36:27.139Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "4djb7Yeu3p8GzY0xzOoXwo",
+      "itemType": "album",
+      "itemName": "Omens",
+      "artistName": "Elder",
+      "associatedAt": "2025-11-22T21:38:03.268Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "4A7L82jwVoU4vfKfaYcbhT",
+      "itemType": "album",
+      "itemName": "Innate Passage",
+      "artistName": "Elder",
+      "associatedAt": "2025-11-22T21:39:34.968Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "7hTg0fYb0GgTecFpnR5WK2",
+      "itemType": "album",
+      "itemName": "Ordinary Wars",
+      "artistName": "Boys Life",
+      "associatedAt": "2025-11-22T22:42:29.658Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "3KhPOGI6TE3LvMhMCOMJ1B",
+      "itemType": "album",
+      "itemName": "GASKET",
+      "artistName": "GASKET",
+      "associatedAt": "2025-11-22T22:47:57.840Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "5BoxgBjJC3kPRXgrIGmwDX",
+      "itemType": "album",
+      "itemName": "Total Soul Ignition",
+      "artistName": "Method Of Doubt",
+      "associatedAt": "2025-11-22T22:52:10.080Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "6u3l4ebOqnxkekPQRPJMwS",
+      "itemType": "album",
+      "itemName": "The Suns of Perdition - Chapter II  Render Unto Eden",
+      "artistName": "Panzerfaust",
+      "associatedAt": "2025-11-23T14:28:59.051Z"
+    },
+    {
+      "tagId": "23",
+      "itemId": "6u3l4ebOqnxkekPQRPJMwS",
+      "itemType": "album",
+      "itemName": "The Suns of Perdition - Chapter II: Render Unto Eden",
+      "artistName": "Panzerfaust",
+      "associatedAt": "2025-11-23T14:29:19.316Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "3pDppYRNUSQPpcHO23Q8Fh",
+      "itemType": "album",
+      "itemName": "It's Hard to Have Hope",
+      "artistName": "Svalbard",
+      "associatedAt": "2025-11-23T14:32:36.639Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "30v7Mmbd7gIp05wpn7DVIQ",
+      "itemType": "album",
+      "itemName": "When I Die, Will I Get Better?",
+      "artistName": "Svalbard",
+      "associatedAt": "2025-11-23T14:33:59.059Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "70UeEiNvvXyBNF9QMQnZre",
+      "itemType": "album",
+      "itemName": "The Weight Of The Mask",
+      "artistName": "Svalbard",
+      "associatedAt": "2025-11-23T14:36:02.894Z"
+    },
+    {
+      "tagId": "26",
+      "itemId": "6wymdowW8HbQ4H3nVs93Hj",
+      "itemType": "album",
+      "itemName": "Pain to Power",
+      "artistName": "Maruja",
+      "associatedAt": "2025-11-23T14:38:05.351Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "0c0hlchA9Q66PcL7xlPPfp",
+      "itemType": "album",
+      "itemName": "Witch Club Satan",
+      "artistName": "Witch Club Satan",
+      "associatedAt": "2025-11-23T14:39:56.282Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "7x5ITalS817yz5rj1wfJse",
+      "itemType": "album",
+      "itemName": "One Day All This Will End",
+      "artistName": "Svalbard",
+      "associatedAt": "2025-11-23T14:44:01.859Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "7tGc2evOdokppX63rGDLKG",
+      "itemType": "album",
+      "itemName": "World Maker",
+      "artistName": "Psychonaut",
+      "associatedAt": "2025-11-23T15:12:06.093Z"
+    },
+    {
+      "tagId": "27",
+      "itemId": "0cKyWvYnOGpPV2NpulEYf5",
+      "itemType": "artist",
+      "itemName": "Winterfylleth",
+      "associatedAt": "2025-11-23T15:23:32.748Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "5BYBM7JBSSOQ8lS8sZnbdi",
+      "itemType": "album",
+      "itemName": "Love & Rage",
+      "artistName": "Shooting Daggers",
+      "associatedAt": "2025-11-23T15:25:07.264Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "2hRFrwaBSK3IdR1ahR7ajj",
+      "itemType": "album",
+      "itemName": "Burnt Sugar",
+      "artistName": "Gouge Away",
+      "associatedAt": "2025-11-23T15:42:36.820Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "48xmyXojuI8jyKsVVu3yLY",
+      "itemType": "album",
+      "itemName": "Все по колу, знову",
+      "artistName": "Morwan",
+      "associatedAt": "2025-11-23T16:18:12.333Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "6Z2hokFLCbEXKnnBosDj8u",
+      "itemType": "track",
+      "itemName": "The Old Religion",
+      "artistName": "Florence + The Machine",
+      "associatedAt": "2025-11-23T17:51:29.756Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "0VmkbO4piecyKI4FO9xfut",
+      "itemType": "album",
+      "itemName": "Life Is Not A Lesson",
+      "artistName": "Glitterer",
+      "associatedAt": "2025-11-24T15:44:43.375Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "3e2Q0TkwIIfmWUAssLAJ8U",
+      "itemType": "album",
+      "itemName": "Returning To Myself",
+      "artistName": "Brandi Carlile",
+      "associatedAt": "2025-11-30T17:54:05.262Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "6SIQj7MJgbjkhV8nm16qZj",
+      "itemType": "album",
+      "itemName": "Congregation",
+      "artistName": "Witch Fever",
+      "associatedAt": "2025-11-30T18:13:37.931Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "5Xds05MFFB6SRaLKfceXRM",
+      "itemType": "album",
+      "itemName": "Trying Not to Have a Thought",
+      "artistName": "Algernon Cadwallader",
+      "associatedAt": "2025-12-01T22:56:34.637Z"
+    },
+    {
+      "tagId": "3",
+      "itemId": "1zn7M7NwtCtSKQGS3eLulj",
+      "itemType": "album",
+      "itemName": "Learning Greek",
+      "artistName": "Humour",
+      "associatedAt": "2025-12-01T23:13:51.776Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "73OcSorYBJgQW0vXa53Lye",
+      "itemType": "album",
+      "itemName": "Magic Of The Sale",
+      "artistName": "Teethe",
+      "associatedAt": "2025-12-02T17:17:27.342Z"
+    },
+    {
+      "tagId": "3",
+      "itemId": "0UvNdmhApnZZ4WCozEv6CP",
+      "itemType": "album",
+      "itemName": "FEVEREATEN",
+      "artistName": "Witch Fever",
+      "associatedAt": "2025-12-03T14:18:09.455Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "1uch3WTm8HyawghHDBsyXZ",
+      "itemType": "album",
+      "itemName": "45 Pounds",
+      "artistName": "YHWH Nailgun",
+      "associatedAt": "2025-12-04T17:13:47.594Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "5avHVbsfj8RCTImGxkeH3K",
+      "itemType": "album",
+      "itemName": "Fleshwork",
+      "artistName": "Pupil Slicer",
+      "associatedAt": "2025-12-06T21:19:49.088Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "5WhOeAAZdZNuVPd0owQ88D",
+      "itemType": "album",
+      "itemName": "Blurrr",
+      "artistName": "Joanne Robertson",
+      "associatedAt": "2025-12-07T00:05:01.009Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "0ibbISvq4loJXVtZquKrQB",
+      "itemType": "album",
+      "itemName": "viagr aboys",
+      "artistName": "Viagra Boys",
+      "associatedAt": "2025-12-07T14:30:42.413Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "56QBkMz7HxeKcfDY9AaNWj",
+      "itemType": "album",
+      "itemName": "Life Is",
+      "artistName": "Loons",
+      "associatedAt": "2025-12-07T16:10:44.250Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "3Eg0fxQ3UrmFeYwZsMfSqH",
+      "itemType": "album",
+      "itemName": "The New Eve Is Rising",
+      "artistName": "The New Eves",
+      "associatedAt": "2025-12-07T16:20:11.348Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "6bqdx647yJNvWTqhEskejD",
+      "itemType": "album",
+      "itemName": "Trains Running Backwards",
+      "artistName": "Hana Eid",
+      "associatedAt": "2025-12-08T18:52:20.707Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "2UHXU5yDMaB5281r3ZMhNu",
+      "itemType": "album",
+      "itemName": "Goodbyehouse",
+      "artistName": "snuggle",
+      "associatedAt": "2025-12-09T15:24:15.099Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "1cSUzXXFmtNIFrCECjFe4R",
+      "itemType": "album",
+      "itemName": "Tomorrow We Escape",
+      "artistName": "Ho99o9",
+      "associatedAt": "2025-12-10T17:38:31.217Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "6k9qRlDieGWKvaK8MMgNhF",
+      "itemType": "album",
+      "itemName": "Worlds Apart",
+      "artistName": "GLEAN",
+      "associatedAt": "2025-12-10T20:46:49.191Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "4YBL7hpMIAWjo5iKVv0DtA",
+      "itemType": "album",
+      "itemName": "A Malign Star",
+      "artistName": "Bloodhorse",
+      "associatedAt": "2025-12-10T22:57:00.948Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "6KxOsfcshieNAz3iwcQ07T",
+      "itemType": "album",
+      "itemName": "Waiting Room",
+      "artistName": "Kathryn Mohr",
+      "associatedAt": "2025-12-10T23:27:16.044Z"
+    },
+    {
+      "tagId": "30",
+      "itemId": "3fYvHadlDuqFaxRFRTNZue",
+      "itemType": "album",
+      "itemName": "Bleed",
+      "artistName": "Bleed",
+      "associatedAt": "2025-12-11T16:26:39.194Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "1txsqdbG3moCxJBvqE8ZfX",
+      "itemType": "album",
+      "itemName": "Control",
+      "artistName": "Xiao",
+      "associatedAt": "2025-12-11T21:37:52.672Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "01UBvt33eTksshPiwljpBn",
+      "itemType": "album",
+      "itemName": "LOWER",
+      "artistName": "Benjamin Booker",
+      "associatedAt": "2025-12-11T22:21:29.247Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "2VNwMwgB3XbKeJh3sCsrpR",
+      "itemType": "album",
+      "itemName": "Conditions III",
+      "artistName": "Chalk",
+      "associatedAt": "2025-12-11T22:36:05.435Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "4GzF4Yg3GSkKi4hAzmjBKV",
+      "itemType": "album",
+      "itemName": "Who Let The Dogs Out",
+      "artistName": "Lambrini Girls",
+      "associatedAt": "2025-12-11T23:47:40.208Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "6iTA9mrYpN3l5P3nJbq1BU",
+      "itemType": "album",
+      "itemName": "Neon Grey Midnight Green",
+      "artistName": "Neko Case",
+      "associatedAt": "2025-12-11T23:48:50.035Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "3K10ND4pwiQr2qAMAzfr7l",
+      "itemType": "album",
+      "itemName": "DISCO3",
+      "artistName": "HEALTH",
+      "associatedAt": "2025-12-12T02:06:08.543Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "2a5KZ4rwrXIm28LvcyjYz5",
+      "itemType": "album",
+      "itemName": "DEATH MAGIC",
+      "artistName": "HEALTH",
+      "associatedAt": "2025-12-12T02:09:08.030Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "0yJ64Iy2hcr9FAuWb6VvRa",
+      "itemType": "track",
+      "itemName": "Sungazer",
+      "artistName": "Shedfromthebody",
+      "associatedAt": "2025-12-12T17:33:06.134Z"
+    },
+    {
+      "tagId": "9",
+      "itemId": "0yJ64Iy2hcr9FAuWb6VvRa",
+      "itemType": "track",
+      "itemName": "Sungazer",
+      "artistName": "Shedfromthebody",
+      "associatedAt": "2025-12-12T17:33:12.808Z"
+    },
+    {
+      "tagId": "2",
+      "itemId": "6Qu8uHZR4kdTTmImdna70S",
+      "itemType": "album",
+      "itemName": "The Maldoror Chants: Old Ocean",
+      "artistName": "Schammasch",
+      "associatedAt": "2025-12-13T00:09:00.849Z"
+    },
+    {
+      "tagId": "9",
+      "itemId": "13zDqaSHOIxDk2zEiQMF7N",
+      "itemType": "track",
+      "itemName": "Image of the Infinite",
+      "artistName": "Schammasch",
+      "associatedAt": "2025-12-13T00:14:19.394Z"
+    },
+    {
+      "tagId": "38",
+      "itemId": "13zDqaSHOIxDk2zEiQMF7N",
+      "itemType": "track",
+      "itemName": "Image of the Infinite",
+      "artistName": "Schammasch",
+      "associatedAt": "2025-12-13T00:14:34.049Z"
+    },
+    {
+      "tagId": "38",
+      "itemId": "0icqn0YRGDucbWhCXqp7CD",
+      "itemType": "track",
+      "itemName": "I, The Swan",
+      "artistName": "The Sound Of Animals Fighting",
+      "associatedAt": "2025-12-13T00:18:39.775Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "1PmHVrFZdWmaaOni45bqD7",
+      "itemType": "album",
+      "itemName": "Hearts of No Light",
+      "artistName": "Schammasch",
+      "associatedAt": "2025-12-13T00:25:34.689Z"
+    },
+    {
+      "tagId": "40",
+      "itemId": "6Qu8uHZR4kdTTmImdna70S",
+      "itemType": "album",
+      "itemName": "The Maldoror Chants: Old Ocean",
+      "artistName": "Schammasch",
+      "associatedAt": "2025-12-13T00:39:08.282Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "44wi9U9zoN1D1VaEj4GzgV",
+      "itemType": "album",
+      "itemName": "A Northern Meadow",
+      "artistName": "Pyramids",
+      "associatedAt": "2025-12-14T17:34:45.994Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "2b1A21v3kdlPn7diPelE1F",
+      "itemType": "album",
+      "itemName": "Wise and Dangerous",
+      "artistName": "Mannequin Death Squad",
+      "associatedAt": "2025-12-15T13:42:25.253Z"
+    },
+    {
+      "tagId": "41",
+      "itemId": "76MDRhVSAadTjDo9R5HELf",
+      "itemType": "track",
+      "itemName": "Killing",
+      "artistName": "Korn",
+      "associatedAt": "2025-12-15T22:34:41.660Z"
+    },
+    {
+      "tagId": "42",
+      "itemId": "1zZ7vl1amOLI4GE5oUn0YB",
+      "itemType": "track",
+      "itemName": "BAGDAD - Cap.7: Liturgia",
+      "artistName": "ROSALÍA",
+      "associatedAt": "2025-12-15T22:47:38.159Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "3raGpQ4GgxmbvwgeQcdNB3",
+      "itemType": "album",
+      "itemName": "Korn III: Remember Who You Are",
+      "artistName": "Korn",
+      "associatedAt": "2025-12-15T23:31:25.355Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "6mWsWVsfWpoZ2d6uxm1ND1",
+      "itemType": "album",
+      "itemName": "The Nothing",
+      "artistName": "Korn",
+      "associatedAt": "2025-12-15T23:32:10.133Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "1zn7M7NwtCtSKQGS3eLulj",
+      "itemType": "album",
+      "itemName": "Learning Greek",
+      "artistName": "Humour",
+      "associatedAt": "2025-12-16T23:12:08.964Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "0z7l9VEJyFMv8p8wffRDaF",
+      "itemType": "album",
+      "itemName": "Everybody Scream",
+      "artistName": "Florence + The Machine",
+      "associatedAt": "2025-12-16T23:31:03.870Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "2eFz77f8mY5Spt3cCH6ZNN",
+      "itemType": "album",
+      "itemName": "Bite Down",
+      "artistName": "Ribbon Skirt",
+      "associatedAt": "2025-12-16T23:31:24.154Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "0UvNdmhApnZZ4WCozEv6CP",
+      "itemType": "album",
+      "itemName": "FEVEREATEN",
+      "artistName": "Witch Fever",
+      "associatedAt": "2025-12-16T23:31:37.806Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "3WOLRTjNMQBPzHB1wgFYev",
+      "itemType": "album",
+      "itemName": "Labyrinthine",
+      "artistName": "Faetooth",
+      "associatedAt": "2025-12-17T09:26:13.822Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "7tGc2evOdokppX63rGDLKG",
+      "itemType": "album",
+      "itemName": "World Maker",
+      "artistName": "Psychonaut",
+      "associatedAt": "2025-12-17T09:27:49.008Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "4i9i7I98VBon2pJOWBtbX1",
+      "itemType": "album",
+      "itemName": "Coma",
+      "artistName": "Gaerea",
+      "associatedAt": "2025-12-17T22:24:56.002Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "50rFKgev0H8lVJpkzKhC3K",
+      "itemType": "album",
+      "itemName": "Nocturne",
+      "artistName": "Hexvessel",
+      "associatedAt": "2025-12-17T23:22:27.511Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "1HjSoAhxhq4RtappX15Xt7",
+      "itemType": "album",
+      "itemName": "star",
+      "artistName": "2hollis",
+      "associatedAt": "2025-12-19T00:54:12.691Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "5biZDwwwoYPYox5g6K3GqL",
+      "itemType": "album",
+      "itemName": "As Of Right Now",
+      "artistName": "N8NOFACE",
+      "associatedAt": "2025-12-19T22:25:43.529Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "2GNMUmQkdZlHAsBN9GZyuv",
+      "itemType": "album",
+      "itemName": "Far From Here",
+      "artistName": "Body Maintenance",
+      "associatedAt": "2025-12-19T22:25:59.803Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "78pglquqFCGylcZ4MDfE7P",
+      "itemType": "album",
+      "itemName": "Quiet Pleasures",
+      "artistName": "Glixen",
+      "associatedAt": "2025-12-19T22:30:57.661Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "0RUhLv4D06s1co2Vv6UbdT",
+      "itemType": "album",
+      "itemName": "LOTTO",
+      "artistName": "They Are Gutting a Body of Water",
+      "associatedAt": "2025-12-19T22:32:42.727Z"
+    },
+    {
+      "tagId": "43",
+      "itemId": "0RUhLv4D06s1co2Vv6UbdT",
+      "itemType": "album",
+      "itemName": "LOTTO",
+      "artistName": "They Are Gutting a Body of Water",
+      "associatedAt": "2025-12-19T22:32:56.858Z"
+    },
+    {
+      "tagId": "43",
+      "itemId": "78pglquqFCGylcZ4MDfE7P",
+      "itemType": "album",
+      "itemName": "Quiet Pleasures",
+      "artistName": "Glixen",
+      "associatedAt": "2025-12-19T22:33:07.145Z"
+    },
+    {
+      "tagId": "43",
+      "itemId": "6R21I5E805CLZmDn8vESQM",
+      "itemType": "album",
+      "itemName": "If Not Winter",
+      "artistName": "Wisp",
+      "associatedAt": "2025-12-19T22:33:15.960Z"
+    },
+    {
+      "tagId": "43",
+      "itemId": "71Hy1xx5UXkMPZ6QAZ4SG8",
+      "itemType": "album",
+      "itemName": "Last Leg of the Human Table",
+      "artistName": "Cloakroom",
+      "associatedAt": "2025-12-19T22:33:33.471Z"
+    },
+    {
+      "tagId": "43",
+      "itemId": "1K0TvwIFyqW8yIzCfqV9iy",
+      "itemType": "album",
+      "itemName": "Fusion in Rupture",
+      "artistName": "slow quit",
+      "associatedAt": "2025-12-19T22:33:42.810Z"
+    },
+    {
+      "tagId": "43",
+      "itemId": "2u6Q3uP3UfHPG2uXS5nPTF",
+      "itemType": "album",
+      "itemName": "SONIC",
+      "artistName": "Glazyhaze",
+      "associatedAt": "2025-12-19T22:33:53.483Z"
+    },
+    {
+      "tagId": "43",
+      "itemId": "2GNMUmQkdZlHAsBN9GZyuv",
+      "itemType": "album",
+      "itemName": "Far From Here",
+      "artistName": "Body Maintenance",
+      "associatedAt": "2025-12-19T22:34:04.798Z"
+    },
+    {
+      "tagId": "43",
+      "itemId": "5biZDwwwoYPYox5g6K3GqL",
+      "itemType": "album",
+      "itemName": "As Of Right Now",
+      "artistName": "N8NOFACE",
+      "associatedAt": "2025-12-19T22:34:17.890Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "1MoHchytw6sq4hhC28JZ7x",
+      "itemType": "album",
+      "itemName": "no scope",
+      "artistName": "crushed",
+      "associatedAt": "2025-12-19T22:35:48.802Z"
+    },
+    {
+      "tagId": "44",
+      "itemId": "1MoHchytw6sq4hhC28JZ7x",
+      "itemType": "album",
+      "itemName": "no scope",
+      "artistName": "crushed",
+      "associatedAt": "2025-12-19T22:35:54.607Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "5CEZLXeWQzCacadbuBwsyC",
+      "itemType": "album",
+      "itemName": "American Muscle",
+      "artistName": "Worlds Worst",
+      "associatedAt": "2025-12-19T22:37:35.072Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "5TUQWlLCMdK4qGBCtNt3iq",
+      "itemType": "album",
+      "itemName": "Again",
+      "artistName": "The Belair Lip Bombs",
+      "associatedAt": "2025-12-28T22:26:42.486Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "5KFvhZwejSylBaPatTFVBA",
+      "itemType": "album",
+      "itemName": "In the Earth Again",
+      "artistName": "Chat Pile",
+      "associatedAt": "2025-12-29T00:47:09.343Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "3DAFXkSP8RR1PbredSKIXZ",
+      "itemType": "album",
+      "itemName": "Our Breath Is Not Ours Alone",
+      "artistName": "Terzij de Horde",
+      "associatedAt": "2025-12-29T11:19:38.630Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "1dEtZP0fJ5jkGwd9OlFy6c",
+      "itemType": "album",
+      "itemName": "Serpents and Shallows",
+      "artistName": "Thisquietarmy",
+      "associatedAt": "2025-12-29T11:23:04.298Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "2P4EZTQfqkw1iUyoMH72nw",
+      "itemType": "album",
+      "itemName": "The Bestiary",
+      "artistName": "Castle Rat",
+      "associatedAt": "2025-12-29T14:45:44.682Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "3xxkjx6Hgl8sWpNfuqhHtD",
+      "itemType": "album",
+      "itemName": "From The Pyre",
+      "artistName": "The Last Dinner Party",
+      "associatedAt": "2025-12-29T23:34:51.049Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "3SUEJULSGgBDG1j4GQhfYY",
+      "itemType": "album",
+      "itemName": "LUX",
+      "artistName": "ROSALÍA",
+      "associatedAt": "2025-12-29T23:48:24.129Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "5WBpaivihlJXB61Zked14X",
+      "itemType": "album",
+      "itemName": "WE WERE JUST HERE",
+      "artistName": "Just Mustard",
+      "associatedAt": "2025-12-29T23:48:45.967Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "5VZyXBOIRs0w7Rh0pWmecI",
+      "itemType": "album",
+      "itemName": "Whisper and Wane",
+      "artistName": "Shedfromthebody",
+      "associatedAt": "2025-12-29T23:57:02.337Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "4aweXXTsOD2Jx6XMGfLfru",
+      "itemType": "album",
+      "itemName": "System",
+      "artistName": "Prewn",
+      "associatedAt": "2025-12-29T23:57:24.741Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "76Pdmv0CzrIY14nzw6Qdcf",
+      "itemType": "album",
+      "itemName": "BLAST.",
+      "artistName": "ELOI",
+      "associatedAt": "2025-12-29T23:57:52.360Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "0vzVkWtGXLcdXSfk8cpFMC",
+      "itemType": "album",
+      "itemName": "Low on Foot",
+      "artistName": "Slow Mass",
+      "associatedAt": "2025-12-29T23:59:04.496Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "4CHSR9fB3FSlFFnTwyeW4H",
+      "itemType": "album",
+      "itemName": "In the Name of Blood",
+      "artistName": "SIERRA VEINS",
+      "associatedAt": "2025-12-29T23:59:31.291Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "3YVnHpyms4rLr3fXS0ROQy",
+      "itemType": "album",
+      "itemName": "moisturizer",
+      "artistName": "Wet Leg",
+      "associatedAt": "2025-12-30T00:08:55.641Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "4BMFHGrHTIRSPvSI6S9UKo",
+      "itemType": "album",
+      "itemName": "Die In Love",
+      "artistName": "Greet Death",
+      "associatedAt": "2025-12-30T00:12:24.752Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "2I25MrGGWAIRtjjcZcf6xP",
+      "itemType": "album",
+      "itemName": "Pirouette",
+      "artistName": "Model/Actriz",
+      "associatedAt": "2025-12-30T00:12:29.476Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "5Eh3xMVdGFAUiYwuoPOzXc",
+      "itemType": "album",
+      "itemName": "Lonely People With Power",
+      "artistName": "Deafheaven",
+      "associatedAt": "2025-12-30T00:12:44.052Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "3o1TOhMkU5FFMSJMDhXfdF",
+      "itemType": "album",
+      "itemName": "EUSEXUA",
+      "artistName": "FKA twigs",
+      "associatedAt": "2025-12-30T00:12:50.346Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "7uVhJfo5DUbwxdu08lGEBI",
+      "itemType": "album",
+      "itemName": "If You Only Knew",
+      "artistName": "Blackwater Holylight",
+      "associatedAt": "2025-12-30T00:12:59.301Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "0jurOscZOHpLilkFiiGZIX",
+      "itemType": "album",
+      "itemName": "The Spin",
+      "artistName": "Messa",
+      "associatedAt": "2025-12-30T00:13:01.317Z"
+    },
+    {
+      "tagId": "3",
+      "itemId": "2FPcePdkU5QkMJG2NbU0gk",
+      "itemType": "album",
+      "itemName": "Pythagoras",
+      "artistName": "Pyramids",
+      "associatedAt": "2025-12-30T00:21:20.808Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "5glk52BEcA9c9RODElJkqF",
+      "itemType": "album",
+      "itemName": "Electric Hour",
+      "artistName": "Sword II",
+      "associatedAt": "2025-12-30T00:29:59.294Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "3FkgtZI2A6FJfH8wBDDnOI",
+      "itemType": "album",
+      "itemName": "Laurentian Blue",
+      "artistName": "Panopticon",
+      "associatedAt": "2025-12-30T00:31:24.202Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "4HxzA7GFGtbcLiCNNd4AmZ",
+      "itemType": "album",
+      "itemName": "The Spiritual Sound",
+      "artistName": "Agriculture",
+      "associatedAt": "2025-12-30T00:31:32.436Z"
+    },
+    {
+      "tagId": "3",
+      "itemId": "3WOLRTjNMQBPzHB1wgFYev",
+      "itemType": "album",
+      "itemName": "Labyrinthine",
+      "artistName": "Faetooth",
+      "associatedAt": "2025-12-30T00:38:27.686Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "5eZ1UdKMt5cs4NxGQSQ2ar",
+      "itemType": "album",
+      "itemName": "Anamorphosee",
+      "artistName": "Mylène Farmer",
+      "associatedAt": "2025-12-30T00:42:21.208Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "5VZyXBOIRs0w7Rh0pWmecI",
+      "itemType": "album",
+      "itemName": "Whisper and Wane",
+      "artistName": "Shedfromthebody",
+      "associatedAt": "2025-12-30T00:54:12.186Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "1Jyr6ZID2DRvvj4FLQ7Sxa",
+      "itemType": "album",
+      "itemName": "Below The Waste",
+      "artistName": "Goat Girl",
+      "associatedAt": "2025-12-30T00:54:12.188Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "5KV2TIucWQfU954VB5hF1y",
+      "itemType": "album",
+      "itemName": "Obsidian Wreath",
+      "artistName": "Infant Island",
+      "associatedAt": "2025-12-30T00:54:12.188Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "4uJMF1xAEk9IgPA5UbwNA6",
+      "itemType": "album",
+      "itemName": "She Reaches Out To She Reaches Out To She",
+      "artistName": "Chelsea Wolfe",
+      "associatedAt": "2025-12-30T00:54:12.189Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "12vzq91UrxC2r3zcHnhaiX",
+      "itemType": "album",
+      "itemName": "Agriculture",
+      "artistName": "Agriculture",
+      "associatedAt": "2025-12-30T00:54:12.189Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "2lu7c86G1ptjMJVL9upG1H",
+      "itemType": "album",
+      "itemName": "False Lankum",
+      "artistName": "Lankum",
+      "associatedAt": "2025-12-30T00:54:12.189Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "2ZMViS2A6M15Z1kN6n6O8S",
+      "itemType": "album",
+      "itemName": "Skinty Fia",
+      "artistName": "Fontaines D.C.",
+      "associatedAt": "2025-12-30T00:54:12.189Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "2IVL0vnFIe9uHWW1TAocC7",
+      "itemType": "album",
+      "itemName": "PAINLESS",
+      "artistName": "Nilüfer Yanya",
+      "associatedAt": "2025-12-30T00:54:12.190Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "0r9awI5WRCZpwk0aVQ4bKO",
+      "itemType": "album",
+      "itemName": "Wet Leg",
+      "artistName": "Wet Leg",
+      "associatedAt": "2025-12-30T00:54:12.191Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "3OKcePcXMmswbp5BOKIMWH",
+      "itemType": "album",
+      "itemName": "Celestial Blues",
+      "artistName": "King Woman",
+      "associatedAt": "2025-12-30T00:54:12.191Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "2OSANMwUl0y0wXe3w8stmv",
+      "itemType": "album",
+      "itemName": "Silver Tongue",
+      "artistName": "TORRES",
+      "associatedAt": "2025-12-30T00:54:12.191Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "1OqeCBpnBINPaOni2h3hVv",
+      "itemType": "album",
+      "itemName": "Nest",
+      "artistName": "Brutus",
+      "associatedAt": "2025-12-30T00:54:12.191Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "4ClyeVlAKJJViIyfVW0yQD",
+      "itemType": "album",
+      "itemName": "Pang",
+      "artistName": "Caroline Polachek",
+      "associatedAt": "2025-12-30T00:54:12.192Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "3DMR3yM5crnt1dG9lLaMTZ",
+      "itemType": "album",
+      "itemName": "MAGDALENE",
+      "artistName": "FKA twigs",
+      "associatedAt": "2025-12-30T00:54:12.192Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "58HB0yjdQE2MH5MrfWt4EO",
+      "itemType": "album",
+      "itemName": "What Chaos Is Imaginary",
+      "artistName": "Girlpool",
+      "associatedAt": "2025-12-30T00:54:12.192Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "3950FHVErcINW3tjRgjebQ",
+      "itemType": "album",
+      "itemName": "Pony",
+      "artistName": "Orville Peck",
+      "associatedAt": "2025-12-30T00:54:12.192Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "5zi7WsKlIiUXv09tbGLKsE",
+      "itemType": "album",
+      "itemName": "IGOR",
+      "artistName": "Tyler, The Creator",
+      "associatedAt": "2025-12-30T00:54:12.192Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "2yVx5Ark5dEz7YN6tYX4Mu",
+      "itemType": "album",
+      "itemName": "Wednesday",
+      "artistName": "Just Mustard",
+      "associatedAt": "2025-12-30T00:54:12.192Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "3BJqKT6NBFj06k5LIvjiZb",
+      "itemType": "album",
+      "itemName": "Arca",
+      "artistName": "Arca",
+      "associatedAt": "2025-12-30T00:54:12.192Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "4inGs77EzuPBFwIyoHIViB",
+      "itemType": "album",
+      "itemName": "Burst",
+      "artistName": "Brutus",
+      "associatedAt": "2025-12-30T00:54:12.192Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "120bhi2kgHiYc2FwI7nghO",
+      "itemType": "album",
+      "itemName": "Powerplant",
+      "artistName": "Girlpool",
+      "associatedAt": "2025-12-30T00:54:12.192Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "3qPU4on4Nurlbzn607FSQ3",
+      "itemType": "album",
+      "itemName": "Not To Disappear",
+      "artistName": "Daughter",
+      "associatedAt": "2025-12-30T00:54:12.193Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "1Jz7Wkxm5uzkgcJkkOtw2s",
+      "itemType": "album",
+      "itemName": "Mémoires Vives",
+      "artistName": "Grand Blanc",
+      "associatedAt": "2025-12-30T00:54:12.193Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "3qZCK4Fg655xHnlgHK6H63",
+      "itemType": "album",
+      "itemName": "Impossible Dream",
+      "artistName": "Haley Bonar",
+      "associatedAt": "2025-12-30T00:54:12.195Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "16i5KnBjWgUtwOO7sVMnJB",
+      "itemType": "album",
+      "itemName": "Puberty 2",
+      "artistName": "Mitski",
+      "associatedAt": "2025-12-30T00:54:12.195Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "3lobKWYjPRZWL6gFLKYE4P",
+      "itemType": "album",
+      "itemName": "California Nights",
+      "artistName": "Best Coast",
+      "associatedAt": "2025-12-30T00:54:12.196Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "4Lo2VjxjIJ5h7YOFwAHRxb",
+      "itemType": "album",
+      "itemName": "Sore",
+      "artistName": "DILLY DALLY",
+      "associatedAt": "2025-12-30T00:54:12.196Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "0U8DeqqKDgIhIiWOdqiQXE",
+      "itemType": "album",
+      "itemName": "Carrie & Lowell",
+      "artistName": "Sufjan Stevens",
+      "associatedAt": "2025-12-30T00:54:12.196Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "7bDxnaImZCM2TJbsI1gMVi",
+      "itemType": "album",
+      "itemName": "Abyss",
+      "artistName": "Chelsea Wolfe",
+      "associatedAt": "2025-12-30T00:54:12.196Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "00tpyZkSVSu6hGp3iWp9E6",
+      "itemType": "album",
+      "itemName": "Last War",
+      "artistName": "Haley Bonar",
+      "associatedAt": "2025-12-30T00:54:12.197Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "472GvzwE3EZ0i2EEaly5mX",
+      "itemType": "album",
+      "itemName": "Bury Me At Makeout Creek",
+      "artistName": "Mitski",
+      "associatedAt": "2025-12-30T00:54:12.197Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "3OBbnkBJc5Pi8rTeeKPTGO",
+      "itemType": "album",
+      "itemName": "Some Heavy Ocean",
+      "artistName": "Emma Ruth Rundle",
+      "associatedAt": "2025-12-30T00:54:12.197Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "6EQWzHbd3EYO8J4EAIJst4",
+      "itemType": "album",
+      "itemName": "Are We There",
+      "artistName": "Sharon Van Etten",
+      "associatedAt": "2025-12-30T00:54:12.197Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "30oc4LI7xm1yMU0XqjLnai",
+      "itemType": "album",
+      "itemName": "Fade Away",
+      "artistName": "Best Coast",
+      "associatedAt": "2025-12-30T00:54:12.198Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "3FEmnamAHHOiJ8hG7tMdJP",
+      "itemType": "album",
+      "itemName": "Vertikal",
+      "artistName": "Cult Of Luna",
+      "associatedAt": "2025-12-30T00:54:12.198Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "4rNhJ9spDTFSXo95Ce4jFw",
+      "itemType": "album",
+      "itemName": "Wash the Sins Not Only the Face",
+      "artistName": "Esben and the Witch",
+      "associatedAt": "2025-12-30T00:54:12.198Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "67Gt8fh4sBgkLnAYChZTz4",
+      "itemType": "album",
+      "itemName": "bounty",
+      "artistName": "iamamiwhoami",
+      "associatedAt": "2025-12-30T00:54:12.199Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "0aMC5DDAF86GvYNPaivEKd",
+      "itemType": "album",
+      "itemName": "Silence Yourself",
+      "artistName": "Savages",
+      "associatedAt": "2025-12-30T00:54:12.199Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "4rpm9Ez8nfVsQvNmHDbgyp",
+      "itemType": "album",
+      "itemName": "Pain Is Beauty",
+      "artistName": "Chelsea Wolfe",
+      "associatedAt": "2025-12-30T00:54:12.199Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "3ML5dQEdtRzUAAeNIiHdVG",
+      "itemType": "album",
+      "itemName": "WIXIW",
+      "artistName": "Liars",
+      "associatedAt": "2025-12-30T00:54:12.199Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "5Q4twEkKreQ54pnMSBKYrU",
+      "itemType": "album",
+      "itemName": "Feel It Break",
+      "artistName": "Austra",
+      "associatedAt": "2025-12-30T00:54:12.199Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "1VSNOi4dAvNc5sT9R0U6ZQ",
+      "itemType": "album",
+      "itemName": "Anna Calvi",
+      "artistName": "Anna Calvi",
+      "associatedAt": "2025-12-30T00:54:12.199Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "7CDvibYA9VE63MYupv4lMi",
+      "itemType": "album",
+      "itemName": "Both Ways Open Jaws",
+      "artistName": "The Dø",
+      "associatedAt": "2025-12-30T00:54:12.199Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "5qAwPhkurqnWvvmHgOoZ6n",
+      "itemType": "album",
+      "itemName": "Violet Cries",
+      "artistName": "Esben and the Witch",
+      "associatedAt": "2025-12-30T00:54:12.199Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "616gMygfSCfBq8uk8jbgyh",
+      "itemType": "album",
+      "itemName": "Grown Unknown",
+      "artistName": "Lia Ices",
+      "associatedAt": "2025-12-30T00:54:12.199Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "7fTKQdfuGQuRd5RYJfpaZB",
+      "itemType": "album",
+      "itemName": "NYX",
+      "artistName": "Mansfield.TYA",
+      "associatedAt": "2025-12-30T00:54:12.199Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "716fnrS2qXChPC3J2X73pK",
+      "itemType": "album",
+      "itemName": "The English Riviera",
+      "artistName": "Metronomy",
+      "associatedAt": "2025-12-30T00:54:12.199Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "6FyvLNb26bBDQ9ViXlEy5i",
+      "itemType": "album",
+      "itemName": "Apokalypsis",
+      "artistName": "Chelsea Wolfe",
+      "associatedAt": "2025-12-30T00:54:12.200Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "1GjjBpY2iDwSQs5bykQI5e",
+      "itemType": "album",
+      "itemName": "Diamond Eyes",
+      "artistName": "Deftones",
+      "associatedAt": "2025-12-30T00:54:12.200Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "670h50t8E3LwP2bGqxGi6E",
+      "itemType": "album",
+      "itemName": "Total Life Forever",
+      "artistName": "Foals",
+      "associatedAt": "2025-12-30T00:54:12.200Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "0bVZZUftetJmkK0Ms8S6Z0",
+      "itemType": "album",
+      "itemName": "In Evening Air",
+      "artistName": "Future Islands",
+      "associatedAt": "2025-12-30T00:54:12.200Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "263qnpEbEbDvSrHvUSWgyk",
+      "itemType": "album",
+      "itemName": "Wall Of Arms",
+      "artistName": "The Maccabees",
+      "associatedAt": "2025-12-30T00:54:12.200Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "3dEgxewsJAZ6s2nVUieNA5",
+      "itemType": "album",
+      "itemName": "Treats",
+      "artistName": "Sleigh Bells",
+      "associatedAt": "2025-12-30T00:54:12.201Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "4kRMCapj9nEyBWnM0kc9OX",
+      "itemType": "album",
+      "itemName": "The Age of Adz",
+      "artistName": "Sufjan Stevens",
+      "associatedAt": "2025-12-30T00:54:12.201Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "7mfSdEokzQjI5AxwrRauZv",
+      "itemType": "album",
+      "itemName": "Epic",
+      "artistName": "Sharon Van Etten",
+      "associatedAt": "2025-12-30T00:54:12.201Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "5j8nonYjFfm4KFso0wVqpN",
+      "itemType": "album",
+      "itemName": "In This Light and On This Evening",
+      "artistName": "Editors",
+      "associatedAt": "2025-12-30T00:54:12.202Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "0XwEfJMejqTpgalJwtp1CM",
+      "itemType": "album",
+      "itemName": "Fever Ray",
+      "artistName": "Fever Ray",
+      "associatedAt": "2025-12-30T00:54:12.202Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "5s9ri2Rr4nXdTFKUFjGkMe",
+      "itemType": "album",
+      "itemName": "Lungs",
+      "artistName": "Florence + The Machine",
+      "associatedAt": "2025-12-30T00:54:12.203Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "6FIFqclBriPCb0SjWDaHIk",
+      "itemType": "album",
+      "itemName": "Veckatimest",
+      "artistName": "Grizzly Bear",
+      "associatedAt": "2025-12-30T00:54:12.204Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "1yeZs16HEgGVwy3qZRMQTs",
+      "itemType": "album",
+      "itemName": "A Balloon Called Moaning",
+      "artistName": "The Joy Formidable",
+      "associatedAt": "2025-12-30T00:54:12.204Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "0uOyWZz1ZnQczjvuF9SWWf",
+      "itemType": "album",
+      "itemName": "Box of Secrets",
+      "artistName": "Blood Red Shoes",
+      "associatedAt": "2025-12-30T00:54:12.205Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "18JyZd2XLdT2rmekw6EwoS",
+      "itemType": "album",
+      "itemName": "Third",
+      "artistName": "Portishead",
+      "associatedAt": "2025-12-30T00:54:12.205Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "4QjGIZZqvNrdkgw4LZKLZK",
+      "itemType": "album",
+      "itemName": "The Con",
+      "artistName": "Tegan and Sara",
+      "associatedAt": "2025-12-30T00:54:12.206Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "3lgIiynXHTZYaSvS1ZrMxG",
+      "itemType": "album",
+      "itemName": "Show Your Bones",
+      "artistName": "Yeah Yeah Yeahs",
+      "associatedAt": "2025-12-30T00:54:12.206Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "5YGnygLN1mVSJQkvP04OJi",
+      "itemType": "album",
+      "itemName": "Playing the Angel",
+      "artistName": "Depeche Mode",
+      "associatedAt": "2025-12-30T00:54:12.206Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "6ZeO3WNF2Gti8ZQnXog5SQ",
+      "itemType": "album",
+      "itemName": "Apologies to the Queen Mary",
+      "artistName": "Wolf Parade",
+      "associatedAt": "2025-12-30T00:54:12.206Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "6ZB8qaR9JNuS0Q0bG1nbcH",
+      "itemType": "album",
+      "itemName": "Funeral",
+      "artistName": "Arcade Fire",
+      "associatedAt": "2025-12-30T00:54:12.207Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "5NUna7cH8t5yLMgBxmW4NL",
+      "itemType": "album",
+      "itemName": "Antics",
+      "artistName": "Interpol",
+      "associatedAt": "2025-12-30T00:54:12.207Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "2yNhqBKfZPzrxRJqGMbSz9",
+      "itemType": "album",
+      "itemName": "So Jealous",
+      "artistName": "Tegan and Sara",
+      "associatedAt": "2025-12-30T00:54:12.207Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "4hBTxv4QRPePXCFcEI7Vjp",
+      "itemType": "album",
+      "itemName": "blink-182",
+      "artistName": "blink-182",
+      "associatedAt": "2025-12-30T00:54:12.207Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "29GVlUeSHwBCbf31VaGaCO",
+      "itemType": "album",
+      "itemName": "Scarlet's Walk",
+      "artistName": "Tori Amos",
+      "associatedAt": "2025-12-30T00:54:12.209Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "2OhUWm2KJay2YWeItU9YcH",
+      "itemType": "album",
+      "itemName": "Turn On The Bright Lights",
+      "artistName": "Interpol",
+      "associatedAt": "2025-12-30T00:54:12.209Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "32H8ZczfX12FWWODVVr6NQ",
+      "itemType": "album",
+      "itemName": "Untouchables",
+      "artistName": "Korn",
+      "associatedAt": "2025-12-30T00:54:12.209Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "6jWde94ln40epKIQCd8XUh",
+      "itemType": "album",
+      "itemName": "Toxicity",
+      "artistName": "System Of A Down",
+      "associatedAt": "2025-12-30T00:54:12.209Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "6PFPjumGRpZnBzqnDci6qJ",
+      "itemType": "album",
+      "itemName": "Hybrid Theory",
+      "artistName": "Linkin Park",
+      "associatedAt": "2025-12-30T00:54:12.209Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "3UBfrm1LGAdOZflgsmCsM2",
+      "itemType": "album",
+      "itemName": "Return Of Saturn",
+      "artistName": "No Doubt",
+      "associatedAt": "2025-12-30T00:54:12.209Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "0PhJJToPch4jCjrfQjyarw",
+      "itemType": "album",
+      "itemName": "Black Market Music",
+      "artistName": "Placebo",
+      "associatedAt": "2025-12-30T00:54:12.210Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "02qgAJm7p9AXtFNHhDTYdu",
+      "itemType": "album",
+      "itemName": "Innamoramento",
+      "artistName": "Mylène Farmer",
+      "associatedAt": "2025-12-30T00:54:12.210Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "77Aoown5BoLvQJnZJBICPO",
+      "itemType": "album",
+      "itemName": "From the Choir Girl Hotel",
+      "artistName": "Tori Amos",
+      "associatedAt": "2025-12-30T00:54:12.210Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "66oRYombEmQmugi8uWuans",
+      "itemType": "album",
+      "itemName": "Version 2.0",
+      "artistName": "Garbage",
+      "associatedAt": "2025-12-30T00:54:12.210Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "2KE8WCHtD8qnAxXeIzNEId",
+      "itemType": "album",
+      "itemName": "Celebrity Skin",
+      "artistName": "Hole",
+      "associatedAt": "2025-12-30T00:54:12.210Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "6cuNyrSmRjBeekioLdLkvI",
+      "itemType": "album",
+      "itemName": "Ray of Light",
+      "artistName": "Madonna",
+      "associatedAt": "2025-12-30T00:54:12.210Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "4gNjfAA5axfUEBbHJoAKBO",
+      "itemType": "album",
+      "itemName": "Gran Turismo",
+      "artistName": "The Cardigans",
+      "associatedAt": "2025-12-30T00:54:12.210Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "0h19Ty9F2Ma8pKkRdx17UT",
+      "itemType": "album",
+      "itemName": "Homogenic",
+      "artistName": "Björk",
+      "associatedAt": "2025-12-30T00:54:12.211Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "6BVlA2NLGg3OKYemGJgo2v",
+      "itemType": "album",
+      "itemName": "White On Blonde",
+      "artistName": "Texas",
+      "associatedAt": "2025-12-30T00:54:12.211Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "6VNuZLF98tsRYgqlIXAVCD",
+      "itemType": "album",
+      "itemName": "Under The Pink",
+      "artistName": "Tori Amos",
+      "associatedAt": "2025-12-30T00:54:12.211Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "2Rwf2nPYZQ9aIe4QXACTC7",
+      "itemType": "album",
+      "itemName": "Live Through This",
+      "artistName": "Hole",
+      "associatedAt": "2025-12-30T00:54:12.211Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "3539EbNgIdEDGBKkUf4wno",
+      "itemType": "album",
+      "itemName": "Dummy",
+      "artistName": "Portishead",
+      "associatedAt": "2025-12-30T00:54:12.211Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "0AP5O47kJWlaKVnnybKvQI",
+      "itemType": "album",
+      "itemName": "Everybody Else Is Doing It, So Why Can't We?",
+      "artistName": "The Cranberries",
+      "associatedAt": "2025-12-30T00:54:12.211Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "2UJcKiJxNryhL050F5Z1Fk",
+      "itemType": "album",
+      "itemName": "Nervermind",
+      "artistName": "Nirvana",
+      "associatedAt": "2025-12-30T00:54:12.211Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "5NKTuBLCYhN0OwqFiGdXd1",
+      "itemType": "album",
+      "itemName": "The Kick Inside",
+      "artistName": "Kate Bush",
+      "associatedAt": "2025-12-30T00:54:12.211Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "1K1Uiyq8Qp9U5dRenhTaw9",
+      "itemType": "album",
+      "itemName": "Mariner",
+      "artistName": "Cult Of Luna",
+      "associatedAt": "2025-12-30T00:54:52.573Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "23MOdUJkZlG971DVuEINMr",
+      "itemType": "album",
+      "itemName": "Coral Fang (PA Version)",
+      "artistName": "The Distillers",
+      "associatedAt": "2025-12-30T00:55:25.113Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "54dqJwP9PsbxHuyr1kbyg5",
+      "itemType": "album",
+      "itemName": "Let There Be Dark",
+      "artistName": "TOWER",
+      "associatedAt": "2025-12-31T10:14:29.176Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "4tBs6fuKW3CY5aXsGUXSr8",
+      "itemType": "album",
+      "itemName": "Amidst the Flames, May Our Organs Resound",
+      "artistName": "Mütterlein",
+      "associatedAt": "2025-12-31T11:09:21.410Z"
+    },
+    {
+      "tagId": "47",
+      "itemId": "4tBs6fuKW3CY5aXsGUXSr8",
+      "itemType": "album",
+      "itemName": "Amidst the Flames, May Our Organs Resound",
+      "artistName": "Mütterlein",
+      "associatedAt": "2025-12-31T11:09:35.924Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "17Ljid2CbINapvp2Xvp6DY",
+      "itemType": "track",
+      "itemName": "DARKAGE",
+      "artistName": "HEALTH",
+      "associatedAt": "2025-12-31T14:39:45.251Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "2te194YCteNanPaBcvjnMN",
+      "itemType": "album",
+      "itemName": "Ego Dissolution",
+      "artistName": "Ancient Death",
+      "associatedAt": "2025-12-30T22:16:27.689Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "6DK5lxaaj74XkZmPIvAXap",
+      "itemType": "album",
+      "itemName": "Switcheroo",
+      "artistName": "Gelli Haha",
+      "associatedAt": "2025-12-30T22:17:06.885Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "6Z5Wqu7fduJ0GHt1JgCFQE",
+      "itemType": "album",
+      "itemName": "There's A Whole World Out There",
+      "artistName": "Arm's Length",
+      "associatedAt": "2025-12-30T22:17:48.720Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "37mwvUCrctINwVYeayXa7h",
+      "itemType": "album",
+      "itemName": "Bloodless",
+      "artistName": "Samia",
+      "associatedAt": "2025-12-30T22:24:02.954Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "71Hy1xx5UXkMPZ6QAZ4SG8",
+      "itemType": "album",
+      "itemName": "Last Leg of the Human Table",
+      "artistName": "Cloakroom",
+      "associatedAt": "2025-12-30T22:34:38.418Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "5bRccN4Jnq0Nyi79zrGSNq",
+      "itemType": "album",
+      "itemName": "Red Sky Mourning",
+      "artistName": "Soul Blind",
+      "associatedAt": "2025-12-31T15:40:52.203Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "1GnhYPmjIQHcno481GZwD5",
+      "itemType": "album",
+      "itemName": "Motocrossed",
+      "artistName": "Motocrossed",
+      "associatedAt": "2025-12-31T15:41:01.298Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "3beA1JhuJXxSfm03cuPmS7",
+      "itemType": "album",
+      "itemName": "All The Pretty Flowers",
+      "artistName": "The Discussion",
+      "associatedAt": "2025-12-31T15:42:03.825Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "3iSPMfhw4P30tFrROrbkFm",
+      "itemType": "album",
+      "itemName": "Willoughby Tucker, I'll Always Love You",
+      "artistName": "Ethel Cain",
+      "associatedAt": "2025-12-31T15:42:14.031Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "3UJOzYOSomBERioRwIaxav",
+      "itemType": "album",
+      "itemName": "WAKE",
+      "artistName": "A Million Creatures",
+      "associatedAt": "2025-12-31T15:42:42.854Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "4Wmy1CCGD4epsMZlUAt7Mi",
+      "itemType": "album",
+      "itemName": "Shape of Ash",
+      "artistName": "Leonov",
+      "associatedAt": "2025-12-31T15:42:56.159Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "0nIlUE1WADAQWSQA7qhN6q",
+      "itemType": "album",
+      "itemName": "Affection & Vengeance",
+      "artistName": "Ainsoph",
+      "associatedAt": "2025-12-31T15:43:26.788Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "0eHXKWp81IW9Hv9pAvuEty",
+      "itemType": "album",
+      "itemName": "Lucro sucio; Los ojos del vacio",
+      "artistName": "The Mars Volta",
+      "associatedAt": "2025-12-31T15:43:34.579Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "6KMDgRONdi8wElXixvTFOV",
+      "itemType": "album",
+      "itemName": "Flickering Resonance",
+      "artistName": "Pelican",
+      "associatedAt": "2025-12-31T15:44:03.244Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "2gOH4r3e8WiMjuShCXqGxY",
+      "itemType": "album",
+      "itemName": "Saturnian Appendices",
+      "artistName": "Crypt Sermon",
+      "associatedAt": "2026-01-01T13:24:38.517Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "/Users/nogrenouille/Music/Nyx Division/(2025) Midnight Lights",
+      "itemType": "album",
+      "itemName": "Midnight Lights",
+      "artistName": "nyx division",
+      "associatedAt": "2026-01-01T13:26:36.181Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "29NwfbBz9hexhTMa6rfBTF",
+      "itemType": "album",
+      "itemName": "Earthstar Mountain",
+      "artistName": "Hannah Cohen",
+      "associatedAt": "2026-01-01T16:54:46.587Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "7kVI4UqkIgIgMAQYs8UjUg",
+      "itemType": "track",
+      "itemName": "Waxwing",
+      "artistName": "Sorry",
+      "associatedAt": "2026-01-01T23:04:12.379Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "61A1odhmwGxO4babRpvu6q",
+      "itemType": "album",
+      "itemName": "GLITTER",
+      "artistName": "Knives",
+      "associatedAt": "2026-01-02T23:11:49.527Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "6R21I5E805CLZmDn8vESQM",
+      "itemType": "album",
+      "itemName": "If Not Winter",
+      "artistName": "Wisp",
+      "associatedAt": "2026-01-05T10:24:08.136Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "3T67qTG1I7rrxE9jZK3DrC",
+      "itemType": "track",
+      "itemName": "God of Light",
+      "artistName": "Pyramids",
+      "albumName": "Pythagoras",
+      "associatedAt": "2026-01-05T10:27:32.466Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "6VXIZWHmdOTHIFhsSkYFgQ",
+      "itemType": "track",
+      "itemName": "When A Good Man Cries",
+      "artistName": "CMAT",
+      "albumName": "EURO-COUNTRY",
+      "associatedAt": "2026-01-05T10:27:45.363Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "3ARwSvDQv2OHYnLeDC3Lxi",
+      "itemType": "album",
+      "itemName": "MAYHEM",
+      "artistName": "Lady Gaga",
+      "associatedAt": "2026-01-05T14:46:03.900Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "7wOOA7l306K8HfBKfPoafr",
+      "itemType": "album",
+      "itemName": "In Utero",
+      "artistName": "Nirvana",
+      "associatedAt": "2026-01-05T17:01:07.526Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "3SW367S1dF9OwKhjV8JMsZ",
+      "itemType": "album",
+      "itemName": "Dweller",
+      "artistName": "Haunted Horses",
+      "associatedAt": "2026-01-06T14:12:30.240Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "3SUEJULSGgBDG1j4GQhfYY",
+      "itemType": "album",
+      "itemName": "LUX",
+      "artistName": "ROSALÍA",
+      "associatedAt": "2026-01-06T14:16:25.921Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "1TUVgGasFeCmA6T3fd9AHk",
+      "itemType": "album",
+      "itemName": "No Need To Argue",
+      "artistName": "The Cranberries",
+      "associatedAt": "2026-01-06T16:38:29.653Z"
+    },
+    {
+      "tagId": "5",
+      "itemId": "2I25MrGGWAIRtjjcZcf6xP",
+      "itemType": "album",
+      "itemName": "Pirouette",
+      "artistName": "Model/Actriz",
+      "associatedAt": "2026-01-08T00:46:59.263Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "637RjNPlB66TysQ9cn577L",
+      "itemType": "album",
+      "itemName": "Late Great",
+      "artistName": "Laura Stevenson",
+      "associatedAt": "2026-01-08T16:56:14.988Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "7vVrYkdm0bPgguWN8rQu8x",
+      "itemType": "album",
+      "itemName": "Precipice",
+      "artistName": "Indigo De Souza",
+      "associatedAt": "2026-01-10T14:14:49.099Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "3MROTtttK946gHaTkXeP8b",
+      "itemType": "album",
+      "itemName": "Ego Death At A Bachelorette Party",
+      "artistName": "Hayley Williams",
+      "associatedAt": "2026-01-10T16:04:12.864Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "0dtHFmAZG3WuxrpxxGoXlV",
+      "itemType": "album",
+      "itemName": "Liquorice",
+      "artistName": "Hatchie",
+      "associatedAt": "2026-01-10T16:39:33.250Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "1cRGZJ3uHgg7Hav6SY10jX",
+      "itemType": "album",
+      "itemName": "Remscéla",
+      "artistName": "Milkweed",
+      "associatedAt": "2026-01-10T16:49:45.981Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "4IzQFnaEIseFzvMYgdQvWB",
+      "itemType": "album",
+      "itemName": "Within Dreams",
+      "artistName": "Feels Like Heaven",
+      "associatedAt": "2026-01-13T13:39:43.267Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "0556az3adGWLglb9E74CnU",
+      "itemType": "album",
+      "itemName": "I'll fill your house with an army",
+      "artistName": "VOWWS",
+      "associatedAt": "2026-01-13T13:40:49.372Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "4gxBs3SE4XtrXy4KsLW45W",
+      "itemType": "album",
+      "itemName": "The Dreaming Prince in Ecstasy",
+      "artistName": "Lamp of Murmuur",
+      "associatedAt": "2026-01-13T13:55:33.164Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "6vRCwr31pNFnURP8mj53KP",
+      "itemType": "album",
+      "itemName": "Luster",
+      "artistName": "Maria Somerville",
+      "associatedAt": "2026-01-13T14:05:48.504Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "1QJtg0pNLYHOoFH0elhNlW",
+      "itemType": "album",
+      "itemName": "Yours, With Malice",
+      "artistName": "Youth Code",
+      "associatedAt": "2026-01-13T14:59:28.747Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "2C6z4sTAG9kIu8rF6fI9r1",
+      "itemType": "album",
+      "itemName": "Unself",
+      "artistName": "Conjurer",
+      "associatedAt": "2026-01-13T22:42:43.628Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "1w7Swtx8wImqy52PDCMsSh",
+      "itemType": "album",
+      "itemName": "Midwinter Graces",
+      "artistName": "Tori Amos",
+      "associatedAt": "2026-01-13T22:43:37.614Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "1Gqulo72n8cWt7s4ywX1VY",
+      "itemType": "album",
+      "itemName": "The Ocean and the Sun",
+      "artistName": "The Sound Of Animals Fighting",
+      "associatedAt": "2026-01-13T22:54:35.972Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "4vGuPyXVFyPYcepuAbdZKo",
+      "itemType": "album",
+      "itemName": "tahaccet ga qëcha com ibajn",
+      "artistName": "Trhä",
+      "associatedAt": "2026-01-14T16:25:21.994Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "0HWpRPqrcdpNGVNnRucDWz",
+      "itemType": "album",
+      "itemName": "Dawn Of The Iron Shadow",
+      "artistName": "One of Nine",
+      "associatedAt": "2026-01-15T23:20:36.740Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "653MF1FIBn8pYkgqsg4bxV",
+      "itemType": "album",
+      "itemName": "Rationale",
+      "artistName": "Glitterer",
+      "associatedAt": "2026-01-15T23:37:41.338Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "4xEKdcsfbqBaLHJdIdTfxD",
+      "itemType": "album",
+      "itemName": "SLOWHOLE",
+      "artistName": "SLOWHOLE",
+      "associatedAt": "2026-01-16T08:19:52.547Z"
+    },
+    {
+      "tagId": "8",
+      "itemId": "2FPcePdkU5QkMJG2NbU0gk",
+      "itemType": "album",
+      "itemName": "Pythagoras",
+      "artistName": "Pyramids",
+      "associatedAt": "2026-01-20T17:39:22.729Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "4faIj68HrgoUfU3YHdZ4PI",
+      "itemType": "album",
+      "itemName": "No Front Teeth",
+      "artistName": "Perfume Genius",
+      "associatedAt": "2026-01-30T16:49:53.806Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "5lBm36eO5Us3NpTXaA9t9C",
+      "itemType": "album",
+      "itemName": "Empty Hands",
+      "artistName": "Poppy",
+      "associatedAt": "2026-02-02T16:55:09.513Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "79zQn0JeZ9tVX2T0VvpDGi",
+      "itemType": "album",
+      "itemName": "Dog Eared",
+      "artistName": "Billie Marten",
+      "associatedAt": "2026-02-02T23:12:37.929Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "5AiAQHIyvobDBDxfiCItZy",
+      "itemType": "album",
+      "itemName": "Nakties Atvirukai",
+      "artistName": "Alina Orlova",
+      "associatedAt": "2026-02-02T23:41:49.582Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "4wQZhZ5XQmqAuelrwpjWrM",
+      "itemType": "album",
+      "itemName": "It's Closeness, It's Easy",
+      "artistName": "Planning For Burial",
+      "associatedAt": "2026-02-03T01:08:57.469Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "4Y7BdM8jWVPhWe0dPsK4vH",
+      "itemType": "album",
+      "itemName": "The Black Swords Of Winter",
+      "artistName": "Ninkharsag",
+      "associatedAt": "2026-02-04T17:01:47.990Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "7lfmJvIDQVQaNADF48E58d",
+      "itemType": "album",
+      "itemName": "2000 In Search of the Endless Sky",
+      "artistName": "Fleshwater",
+      "associatedAt": "2026-02-04T17:52:10.935Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "2bv2WcWjHqUSNc3Jgzj25D",
+      "itemType": "album",
+      "itemName": "Violence Dimension",
+      "artistName": "Conan",
+      "associatedAt": "2026-02-04T18:05:27.922Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "1886T3N5i6EMpvnW04wt1x",
+      "itemType": "album",
+      "itemName": "The Return Of Magik",
+      "artistName": "Rwake",
+      "associatedAt": "2026-02-04T18:31:56.406Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "6LLi2GeMAcPyUvwWxS2Gy7",
+      "itemType": "album",
+      "itemName": "EXPO",
+      "artistName": "Ulrika Spacek",
+      "associatedAt": "2026-02-07T01:29:28.625Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "3PF45z4y4Nf4NiRXQE2qaE",
+      "itemType": "album",
+      "itemName": "Hell Interface",
+      "artistName": "Nightmarer",
+      "associatedAt": "2026-02-10T21:10:50.298Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "4bektuUL365EyoMBvd1vIm",
+      "itemType": "album",
+      "itemName": "Primal",
+      "artistName": "Fátima",
+      "associatedAt": "2026-02-11T14:54:46.049Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "4aAqSQJ69OruOHDlQ9B5ki",
+      "itemType": "album",
+      "itemName": "Girl Violence",
+      "artistName": "King Princess",
+      "associatedAt": "2026-02-11T16:28:37.630Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "0g5JcnEdSOdamo0BpX0ETp",
+      "itemType": "album",
+      "itemName": "Gossip",
+      "artistName": "Gertrude Atherton",
+      "associatedAt": "2026-02-13T00:17:11.948Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "2QJhJYgrwIL5C8x7FphmVk",
+      "itemType": "album",
+      "itemName": "IN VERSES",
+      "artistName": "Karnivool",
+      "associatedAt": "2026-02-15T23:53:54.966Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "2unM3uhhIuyfnEzBC4srCk",
+      "itemType": "album",
+      "itemName": "Faint Illusions",
+      "artistName": "Farmer's Wife",
+      "associatedAt": "2026-02-16T00:07:33.069Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "6WVULKossUfiq6AkHBZtIp",
+      "itemType": "album",
+      "itemName": "Blame The Clown",
+      "artistName": "Twisted Teens",
+      "associatedAt": "2026-02-23T16:48:19.062Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "4a9dkYhzbmPuJr3deG5EOX",
+      "itemType": "album",
+      "itemName": "Spirit World Tour",
+      "artistName": "Sword II",
+      "associatedAt": "2026-02-23T23:52:32.509Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "4zI7O4eE92cRjGLwXc3Y1c",
+      "itemType": "album",
+      "itemName": "Necropalace",
+      "artistName": "Worm",
+      "associatedAt": "2026-02-24T22:04:12.168Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "0SgaJxAqnAWhe1YDanb3zQ",
+      "itemType": "album",
+      "itemName": "...IS YOUR FRIEND",
+      "artistName": "DRAIN",
+      "associatedAt": "2026-02-24T22:09:32.981Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "52JymrguPgkmmwLaWIusst",
+      "itemType": "album",
+      "itemName": "Come Over When You're Sober, Pt. 2",
+      "artistName": "Lil Peep",
+      "associatedAt": "2026-02-24T23:01:12.095Z"
+    },
+    {
+      "tagId": "45",
+      "itemId": "2FOJBMeUkk62xks9RUhuLd",
+      "itemType": "album",
+      "itemName": "The Seminal Record of Ellah a. Thaun",
+      "artistName": "Ellah a. Thaun",
+      "associatedAt": "2026-02-28T21:56:44.604Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "4ClB1o1LdLas1As0GlKCI6",
+      "itemType": "album",
+      "itemName": "Hymn to the Woeful Hearts",
+      "artistName": "Pure Wrath",
+      "associatedAt": "2026-03-27T00:50:56.623Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "0hApHfxiMEFmgKp5jLmi4U",
+      "itemType": "album",
+      "itemName": "Ancient Tomes, Volume I: Mother of Light",
+      "artistName": "Serpentent",
+      "associatedAt": "2026-04-12T21:24:37.536Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "236yOxNtzyUg978ZWV3Hzi",
+      "itemType": "album",
+      "itemName": "Bring In The Wild",
+      "artistName": "Catherine Elms",
+      "associatedAt": "2026-04-12T21:27:21.564Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "1P7aLqfoIPEfSO6GiOFI5z",
+      "itemType": "album",
+      "itemName": "Dimensional Bleed",
+      "artistName": "Holy Fawn",
+      "associatedAt": "2026-04-12T22:57:56.318Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "58vZavXqh1P5uoTXteudWl",
+      "itemType": "album",
+      "itemName": "At The Beach, In Every Life",
+      "artistName": "Gigi Perez",
+      "associatedAt": "2026-04-12T23:39:35.579Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "0RjsbmAOQzWOq3fxQ002rX",
+      "itemType": "album",
+      "itemName": "I Am The Dog",
+      "artistName": "Sir Chloe",
+      "associatedAt": "2026-04-13T22:27:16.521Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "0b3EGcRLGcbnXAaB2MPez3",
+      "itemType": "album",
+      "itemName": "Sceaduhelm",
+      "artistName": "Crippled Black Phoenix",
+      "associatedAt": "2026-04-19T13:18:06.168Z"
+    },
+    {
+      "tagId": "48",
+      "itemId": "2lIZef4lzdvZkiiCzvPKj7",
+      "itemType": "album",
+      "itemName": "BRAT",
+      "artistName": "Charli xcx",
+      "associatedAt": "2026-05-02T11:55:44.671Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "4eLf3APm1Cb4vqmJUnDLpr",
+      "itemType": "album",
+      "itemName": "Poem 1",
+      "artistName": "Ana Roxanne",
+      "associatedAt": "2026-05-05T16:41:28.083Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "3HWdBSozGCPDONMpCmnKDf",
+      "itemType": "album",
+      "itemName": "A Million Knives",
+      "artistName": "The Velveteers",
+      "associatedAt": "2026-05-11T14:33:53.221Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "5QYWYA7xLfaWdK0WKrreRK",
+      "itemType": "album",
+      "itemName": "TRST",
+      "artistName": "TR/ST",
+      "associatedAt": "2026-05-25T18:11:01.331Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "5GgxJ8afPLKHg4MHIxP0av",
+      "itemType": "track",
+      "itemName": "UNKNOWN LOVERZ",
+      "artistName": "Slayyyter",
+      "associatedAt": "2026-05-28T13:52:55.872Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "6NhY5Hne9UyWwvAw1Qic72",
+      "itemType": "album",
+      "itemName": "Amends",
+      "artistName": "Them Are Us Too",
+      "associatedAt": "2026-05-28T13:55:10.175Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "3Db7Pt58Ln021HniGWH3Mv",
+      "itemType": "track",
+      "itemName": "Floor",
+      "artistName": "Them Are Us Too",
+      "associatedAt": "2026-05-28T13:55:28.008Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "3h64Lbm3TXMBSByfnRQyZE",
+      "itemType": "track",
+      "itemName": "De Madrugá",
+      "artistName": "ROSALÍA",
+      "associatedAt": "2026-05-28T14:07:19.788Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "5Sg4O9cuCt6bv6NEHTB9z5",
+      "itemType": "track",
+      "itemName": "The Glory of the Ocean",
+      "artistName": "Agriculture",
+      "associatedAt": "2026-06-01T13:56:00.447Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "21gCYJP9C9GUNI4jCZhheZ",
+      "itemType": "track",
+      "itemName": "Go Dig My Grave",
+      "artistName": "Lankum",
+      "associatedAt": "2026-06-01T13:56:21.106Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "7i9d5GUNeth24nWGT1nnJ9",
+      "itemType": "track",
+      "itemName": "words fell out",
+      "artistName": "Goat Girl",
+      "associatedAt": "2026-06-01T13:56:48.361Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "2zj5pSP9CoOTCDRfBN2zCq",
+      "itemType": "track",
+      "itemName": "Dusk",
+      "artistName": "Chelsea Wolfe",
+      "associatedAt": "2026-06-01T13:57:58.014Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "1MoA0TNVdveasxnR6c2JqZ",
+      "itemType": "track",
+      "itemName": "Jackie Down The Line",
+      "artistName": "Fontaines D.C.",
+      "associatedAt": "2026-06-01T14:01:07.946Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "7FMG6KTqNPzTnPTDiMfyJs",
+      "itemType": "track",
+      "itemName": "midnight sun",
+      "artistName": "Nilüfer Yanya",
+      "associatedAt": "2026-06-01T14:01:22.268Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "0aWvwHwfcH96GzEh4w9Emg",
+      "itemType": "track",
+      "itemName": "Morning Star",
+      "artistName": "King Woman",
+      "associatedAt": "2026-06-01T14:01:52.373Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "1SQZgLD3XPksEEn79JDvPj",
+      "itemType": "track",
+      "itemName": "Last Forest",
+      "artistName": "TORRES",
+      "associatedAt": "2026-06-01T14:02:16.095Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "3kYrANPBhOqKb9tqMOMBLq",
+      "itemType": "track",
+      "itemName": "Pretty",
+      "artistName": "Girlpool",
+      "associatedAt": "2026-06-01T14:03:02.784Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "0fv2KH6hac06J86hBUTcSf",
+      "itemType": "track",
+      "itemName": "NEW MAGIC WAND",
+      "artistName": "Tyler, The Creator",
+      "associatedAt": "2026-06-01T14:03:16.917Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "5rOzcHIZaF038jMeHkUZR0",
+      "itemType": "track",
+      "itemName": "Reverie",
+      "artistName": "Arca",
+      "associatedAt": "2026-06-01T14:03:49.747Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "5siV9C6eK0NpAqER2FfCVA",
+      "itemType": "album",
+      "itemName": "WOR$T GIRL IN AMERICA",
+      "artistName": "Slayyyter",
+      "associatedAt": "2026-06-01T14:32:47.413Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "1CuNAntYhT2j6LNJoIEfF4",
+      "itemType": "track",
+      "itemName": "Sulk",
+      "artistName": "TR/ST",
+      "albumName": "TRST",
+      "associatedAt": "2026-06-01T14:51:18.463Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "0AByf8LXqfnKa1UW7kbxsr",
+      "itemType": "track",
+      "itemName": "I Can't See New York",
+      "artistName": "Tori Amos",
+      "albumName": "Scarlet's Walk",
+      "associatedAt": "2026-06-01T14:51:31.153Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "6HF8adoBis3yuoWC2qB5mJ",
+      "itemType": "track",
+      "itemName": "Ostrich",
+      "artistName": "The Joy Formidable",
+      "albumName": "A Balloon Called Moaning",
+      "associatedAt": "2026-06-01T14:51:48.482Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "5BFT5GM3apEd97LLNRHgfC",
+      "itemType": "track",
+      "itemName": "Tennis",
+      "artistName": "Just Mustard",
+      "albumName": "Wednesday",
+      "associatedAt": "2026-06-01T15:34:20.971Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "5ylJYpTTsvrdhN5UINmOaD",
+      "itemType": "track",
+      "itemName": "Tainted",
+      "artistName": "Just Mustard",
+      "albumName": "Wednesday",
+      "associatedAt": "2026-06-01T15:51:24.960Z"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "createdAt": "2025-11-11T00:00:00.000Z",
+    "updatedAt": "2026-06-01T15:51:24.960Z"
+  }
+}
