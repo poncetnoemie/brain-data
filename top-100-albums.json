@@ -974,7 +974,11 @@
     "addedAt": "2025-12-30T00:54:12.210Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e029566d96218948d7821daca81",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "7KZftdPjkbOhewaBnLmKFD",
+      "name": "Optimistique-moi",
+      "trackNumber": 8
+    },
     "id": "02qgAJm7p9AXtFNHhDTYdu"
   },
   {
