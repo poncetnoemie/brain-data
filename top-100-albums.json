@@ -697,7 +697,11 @@
     "addedAt": "2025-12-30T00:54:12.201Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e02c349f6f497aefd6a7ea4b5da",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "6BBYPK2o0HZC3SbKMxxpuj",
+      "name": "I Want To Be Well",
+      "trackNumber": 10
+    },
     "id": "4kRMCapj9nEyBWnM0kc9OX"
   },
   {
