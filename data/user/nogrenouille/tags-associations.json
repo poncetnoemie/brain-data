@@ -3077,11 +3077,20 @@
       "artistName": "Tori Amos",
       "albumName": "From the Choir Girl Hotel",
       "associatedAt": "2026-06-01T16:08:17.902Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "6jGhyUxVBGimLwyVckwQmv",
+      "itemType": "track",
+      "itemName": "California",
+      "artistName": "Mylène Farmer",
+      "albumName": "Anamorphosee",
+      "associatedAt": "2026-06-01T16:08:26.308Z"
     }
   ],
   "metadata": {
     "version": "1.0",
     "createdAt": "2025-11-11T00:00:00.000Z",
-    "updatedAt": "2026-06-01T16:08:17.902Z"
+    "updatedAt": "2026-06-01T16:08:26.308Z"
   }
 }
