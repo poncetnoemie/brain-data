@@ -1031,7 +1031,11 @@
     "addedAt": "2025-12-30T00:54:12.211Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e02bf6b30f88589aa7de0e528ba",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "2nKm2PzPQ3PLOCSEHetFxz",
+      "name": "Hunter",
+      "trackNumber": 1
+    },
     "id": "0h19Ty9F2Ma8pKkRdx17UT"
   },
   {
