@@ -884,7 +884,11 @@
     "addedAt": "2025-12-30T00:54:12.209Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e0218b466f7d32cded8a5ed659c",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "0AByf8LXqfnKa1UW7kbxsr",
+      "name": "I Can't See New York (2023 Remaster)",
+      "trackNumber": 12
+    },
     "id": "29GVlUeSHwBCbf31VaGaCO"
   },
   {
