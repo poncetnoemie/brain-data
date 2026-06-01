@@ -119,7 +119,11 @@
     "addedAt": "2025-12-30T00:54:12.190Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e0252d941b53af15d17cf99f762",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "7FMG6KTqNPzTnPTDiMfyJs",
+      "name": "midnight sun",
+      "trackNumber": 6
+    },
     "id": "2IVL0vnFIe9uHWW1TAocC7"
   },
   {
