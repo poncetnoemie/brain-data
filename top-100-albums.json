@@ -778,7 +778,11 @@
     "addedAt": "2025-12-30T00:54:12.205Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e02b97fcffd5a292c391bc065bb",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "0KqCivRG1BH1vUZO04AHXT",
+      "name": "I Wish I Was Someone Better",
+      "trackNumber": 5
+    },
     "id": "0uOyWZz1ZnQczjvuF9SWWf"
   },
   {
