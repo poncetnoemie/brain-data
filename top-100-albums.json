@@ -926,7 +926,11 @@
     "addedAt": "2025-12-30T00:54:12.209Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e0207bc7d2a745636c356b4d0aa",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "0snQkGI5qnAmohLE7jTsTn",
+      "name": "Toxicity",
+      "trackNumber": 12
+    },
     "id": "6jWde94ln40epKIQCd8XUh"
   },
   {
