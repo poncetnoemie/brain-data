@@ -157,7 +157,11 @@
     "addedAt": "2025-12-30T00:54:12.191Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e026299f41b728aa96e94265dba",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "0aWvwHwfcH96GzEh4w9Emg",
+      "name": "Morning Star",
+      "trackNumber": 2
+    },
     "id": "3OKcePcXMmswbp5BOKIMWH"
   },
   {
