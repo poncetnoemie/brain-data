@@ -1934,14 +1934,6 @@
     },
     {
       "tagId": "46",
-      "itemId": "6ZB8qaR9JNuS0Q0bG1nbcH",
-      "itemType": "album",
-      "itemName": "Funeral",
-      "artistName": "Arcade Fire",
-      "associatedAt": "2025-12-30T00:54:12.207Z"
-    },
-    {
-      "tagId": "46",
       "itemId": "5NUna7cH8t5yLMgBxmW4NL",
       "itemType": "album",
       "itemName": "Antics",
@@ -3058,11 +3050,20 @@
       "artistName": "Björk",
       "albumName": "Homogenic",
       "associatedAt": "2026-06-01T15:57:39.211Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "0X576XiCW9uEtko6f6VkcU",
+      "itemType": "track",
+      "itemName": "Crawling",
+      "artistName": "Linkin Park",
+      "albumName": "Hybrid Theory",
+      "associatedAt": "2026-06-01T16:07:12.742Z"
     }
   ],
   "metadata": {
     "version": "1.0",
     "createdAt": "2025-11-11T00:00:00.000Z",
-    "updatedAt": "2026-06-01T15:57:39.211Z"
+    "updatedAt": "2026-06-01T16:07:12.742Z"
   }
 }
