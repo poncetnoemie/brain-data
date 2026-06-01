@@ -600,13 +600,14 @@
   {
     "id": "75iTRwhc1ujZwiTrCdBQOu",
     "albumId": "75iTRwhc1ujZwiTrCdBQOu",
-    "albumName": null,
-    "artistName": null,
-    "releaseDate": null,
+    "albumName": "Wednesday",
+    "artistName": "Just Mustard",
+    "releaseDate": "2018-05-02",
     "addedAt": "2026-06-01T09:53:47.728Z",
-    "cover": null,
+    "cover": "https://i.scdn.co/image/ab67616d00001e0238a4f8c4f9c1279e6a26dc01",
     "media": [
-      "vinyle"
+      "vinyle",
+      "cd"
     ]
   },
   {
