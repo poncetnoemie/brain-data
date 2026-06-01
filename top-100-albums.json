@@ -933,7 +933,11 @@
     "addedAt": "2025-12-30T00:54:12.209Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e022cd7568f8895a3c031c2e2fb",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "0X576XiCW9uEtko6f6VkcU",
+      "name": "Crawling",
+      "trackNumber": 5
+    },
     "id": "6PFPjumGRpZnBzqnDci6qJ"
   },
   {
