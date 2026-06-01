@@ -1090,7 +1090,11 @@
     "addedAt": "2025-12-30T00:54:12.211Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e02f6325f361d7803ad0d908451",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "1WYrTfvKjQYaYfVziGG1ET",
+      "name": "Linger",
+      "trackNumber": null
+    },
     "id": "0AP5O47kJWlaKVnnybKvQI"
   },
   {
