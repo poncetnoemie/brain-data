@@ -735,7 +735,11 @@
     "addedAt": "2025-12-30T00:54:12.204Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e02cf7ebaa498e520bbdc619c67",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "6HF8adoBis3yuoWC2qB5mJ",
+      "name": "Ostrich",
+      "trackNumber": 8
+    },
     "id": "1yeZs16HEgGVwy3qZRMQTs"
   },
   {
