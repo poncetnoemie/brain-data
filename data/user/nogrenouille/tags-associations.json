@@ -3086,11 +3086,20 @@
       "artistName": "Mylène Farmer",
       "albumName": "Anamorphosee",
       "associatedAt": "2026-06-01T16:08:26.308Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "7KZftdPjkbOhewaBnLmKFD",
+      "itemType": "track",
+      "itemName": "Optimistique-moi",
+      "artistName": "Mylène Farmer",
+      "albumName": "Innamoramento",
+      "associatedAt": "2026-06-01T16:09:12.264Z"
     }
   ],
   "metadata": {
     "version": "1.0",
     "createdAt": "2025-11-11T00:00:00.000Z",
-    "updatedAt": "2026-06-01T16:08:26.308Z"
+    "updatedAt": "2026-06-01T16:09:12.264Z"
   }
 }
