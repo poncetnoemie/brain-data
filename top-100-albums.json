@@ -246,7 +246,11 @@
     "addedAt": "2025-12-30T00:54:12.192Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e0230a635de2bb0caa4e26f6abb",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "0fv2KH6hac06J86hBUTcSf",
+      "name": "NEW MAGIC WAND",
+      "trackNumber": 6
+    },
     "id": "5zi7WsKlIiUXv09tbGLKsE"
   },
   {
