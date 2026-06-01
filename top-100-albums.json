@@ -261,7 +261,11 @@
     "addedAt": "2025-12-30T00:54:12.192Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e02eba7fd81300e4800fae8be04",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "5ylJYpTTsvrdhN5UINmOaD",
+      "name": "Tainted",
+      "trackNumber": 5
+    },
     "id": "2yVx5Ark5dEz7YN6tYX4Mu"
   },
   {
