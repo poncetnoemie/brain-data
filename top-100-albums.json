@@ -7,7 +7,11 @@
     "addedAt": "2025-12-30T00:42:21.208Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e027f768cedd14fc6de1cdd09ef",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "6jGhyUxVBGimLwyVckwQmv",
+      "name": "California",
+      "trackNumber": 1
+    },
     "id": "5eZ1UdKMt5cs4NxGQSQ2ar"
   },
   {
