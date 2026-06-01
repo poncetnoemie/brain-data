@@ -3004,11 +3004,20 @@
       "artistName": "Mitski",
       "albumName": "Puberty 2",
       "associatedAt": "2026-06-01T15:55:10.704Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "5yoJk1yR5QmwE8Zj2qatpK",
+      "itemType": "track",
+      "itemName": "Husbands",
+      "artistName": "Savages",
+      "albumName": "Silence Yourself",
+      "associatedAt": "2026-06-01T15:55:54.880Z"
     }
   ],
   "metadata": {
     "version": "1.0",
     "createdAt": "2025-11-11T00:00:00.000Z",
-    "updatedAt": "2026-06-01T15:55:10.704Z"
+    "updatedAt": "2026-06-01T15:55:54.880Z"
   }
 }
