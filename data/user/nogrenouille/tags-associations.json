@@ -3104,11 +3104,20 @@
       "artistName": "System Of A Down",
       "albumName": "Toxicity",
       "associatedAt": "2026-06-01T16:09:25.820Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "0KqCivRG1BH1vUZO04AHXT",
+      "itemType": "track",
+      "itemName": "I Wish I Was Someone Better",
+      "artistName": "Blood Red Shoes",
+      "albumName": "Box of Secrets",
+      "associatedAt": "2026-06-01T16:09:48.941Z"
     }
   ],
   "metadata": {
     "version": "1.0",
     "createdAt": "2025-11-11T00:00:00.000Z",
-    "updatedAt": "2026-06-01T16:09:25.820Z"
+    "updatedAt": "2026-06-01T16:09:48.941Z"
   }
 }
