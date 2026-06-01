@@ -1171,7 +1171,11 @@
     "addedAt": "2026-01-06T16:38:29.653Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e024ee45f0c86ca0986de7973e9",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "6qaEfIiZ1THbCbKJbASmA3",
+      "name": "Disappointment",
+      "trackNumber": 8
+    },
     "id": "1TUVgGasFeCmA6T3fd9AHk"
   },
   {
