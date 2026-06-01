@@ -1181,7 +1181,11 @@
     "addedAt": "2026-05-25T18:11:01.331Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e0254ae3f01abf5be7f7f8bfc58",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "1CuNAntYhT2j6LNJoIEfF4",
+      "name": "Sulk",
+      "trackNumber": 11
+    },
     "id": "5QYWYA7xLfaWdK0WKrreRK"
   },
   {
