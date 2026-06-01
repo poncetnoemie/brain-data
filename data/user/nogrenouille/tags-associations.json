@@ -3158,11 +3158,20 @@
       "artistName": "Infant Island",
       "albumName": "Obsidian Wreath",
       "associatedAt": "2026-06-01T16:11:26.354Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "4VBE0mwU8Nmm8hiqfCe4Ve",
+      "itemType": "track",
+      "itemName": "Being In Love",
+      "artistName": "Wet Leg",
+      "albumName": "Wet Leg",
+      "associatedAt": "2026-06-01T16:11:42.253Z"
     }
   ],
   "metadata": {
     "version": "1.0",
     "createdAt": "2025-11-11T00:00:00.000Z",
-    "updatedAt": "2026-06-01T16:11:26.354Z"
+    "updatedAt": "2026-06-01T16:11:42.253Z"
   }
 }
