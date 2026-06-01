@@ -554,7 +554,11 @@
     "addedAt": "2025-12-30T00:54:12.199Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e0282d8dba325b645dd16f95706",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "5hyEQ6BNYKYrsRNiUxrXT4",
+      "name": "Beat And The Pulse",
+      "trackNumber": 4
+    },
     "id": "5Q4twEkKreQ54pnMSBKYrU"
   },
   {
