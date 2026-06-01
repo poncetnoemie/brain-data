@@ -66,7 +66,11 @@
     "addedAt": "2025-12-30T00:54:12.189Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e027418c8b1fa436c331a37e758",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "5Sg4O9cuCt6bv6NEHTB9z5",
+      "name": "The Glory of the Ocean",
+      "trackNumber": 1
+    },
     "id": "12vzq91UrxC2r3zcHnhaiX"
   },
   {
