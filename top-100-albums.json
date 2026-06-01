@@ -1053,7 +1053,11 @@
     "addedAt": "2025-12-30T00:54:12.211Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e023e925ce40de481ef6f936897",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "5HCIck4xQZXZn3sbQtsFzB",
+      "name": "Pretty Good Year",
+      "trackNumber": 1
+    },
     "id": "6VNuZLF98tsRYgqlIXAVCD"
   },
   {
