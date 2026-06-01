@@ -981,7 +981,11 @@
     "addedAt": "2025-12-30T00:54:12.210Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e0202a7813b26efc8f7ce5f3434",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "5mYjL1KmNh5c1vuuCATFFu",
+      "name": "Iieee",
+      "trackNumber": 6
+    },
     "id": "77Aoown5BoLvQJnZJBICPO"
   },
   {
