@@ -758,13 +758,14 @@
   {
     "id": "02w1xMzzdF2OJxTeh1basm",
     "albumId": "02w1xMzzdF2OJxTeh1basm",
-    "albumName": null,
-    "artistName": null,
-    "releaseDate": null,
+    "albumName": "Fallen",
+    "artistName": "Evanescence",
+    "releaseDate": "2003-03-04",
     "addedAt": "2026-06-01T09:53:47.728Z",
-    "cover": null,
+    "cover": "https://i.scdn.co/image/ab67616d00001e0225f49ab23f0ec6332efef432",
     "media": [
-      "vinyle"
+      "vinyle",
+      "cd"
     ]
   },
   {
