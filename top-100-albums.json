@@ -1014,7 +1014,11 @@
     "addedAt": "2025-12-30T00:54:12.210Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e0291d080c66f2425c23c6eadf8",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "0beXeFEWUYYY13fYVHTtFk",
+      "name": "Drowned World / Substitute for Love",
+      "trackNumber": 1
+    },
     "id": "6cuNyrSmRjBeekioLdLkvI"
   },
   {
