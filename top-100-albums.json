@@ -172,7 +172,11 @@
     "addedAt": "2025-12-30T00:54:12.191Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e022a9ff87af8a29bf90271c501",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "1SQZgLD3XPksEEn79JDvPj",
+      "name": "Last Forest",
+      "trackNumber": 2
+    },
     "id": "2OSANMwUl0y0wXe3w8stmv"
   },
   {
