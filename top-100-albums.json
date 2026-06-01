@@ -535,7 +535,11 @@
     "addedAt": "2025-12-30T00:54:12.199Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e027246d89a9d0832c16f51480e",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "24OFVYG9naDTd7E7p61ZIE",
+      "name": "Octagon",
+      "trackNumber": 2
+    },
     "id": "3ML5dQEdtRzUAAeNIiHdVG"
   },
   {
