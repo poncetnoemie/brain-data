@@ -591,7 +591,11 @@
     "addedAt": "2025-12-30T00:54:12.199Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e02aa97c4258af0f223627295d2",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "4AHNJvIPV1zL5tiMoiwXRe",
+      "name": "Marching Song",
+      "trackNumber": 2
+    },
     "id": "5qAwPhkurqnWvvmHgOoZ6n"
   },
   {
