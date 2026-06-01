@@ -2995,11 +2995,20 @@
       "artistName": "Sufjan Stevens",
       "albumName": "Carrie & Lowell",
       "associatedAt": "2026-06-01T15:54:49.495Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "2Co0IjcLTSHMtodwD4gzfg",
+      "itemType": "track",
+      "itemName": "I Bet on Losing Dogs",
+      "artistName": "Mitski",
+      "albumName": "Puberty 2",
+      "associatedAt": "2026-06-01T15:55:10.704Z"
     }
   ],
   "metadata": {
     "version": "1.0",
     "createdAt": "2025-11-11T00:00:00.000Z",
-    "updatedAt": "2026-06-01T15:54:49.495Z"
+    "updatedAt": "2026-06-01T15:55:10.704Z"
   }
 }
