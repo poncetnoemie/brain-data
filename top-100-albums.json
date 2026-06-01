@@ -220,7 +220,11 @@
     "addedAt": "2025-12-30T00:54:12.192Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e02a6cb228fb0bb6d321b283ee7",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "3kYrANPBhOqKb9tqMOMBLq",
+      "name": "Pretty",
+      "trackNumber": 5
+    },
     "id": "58HB0yjdQE2MH5MrfWt4EO"
   },
   {
