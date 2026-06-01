@@ -346,7 +346,11 @@
     "addedAt": "2025-12-30T00:54:12.195Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e0251630f0f26aff5bbf9e10835",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "2Co0IjcLTSHMtodwD4gzfg",
+      "name": "I Bet on Losing Dogs",
+      "trackNumber": 6
+    },
     "id": "16i5KnBjWgUtwOO7sVMnJB"
   },
   {
