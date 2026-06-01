@@ -104,7 +104,11 @@
     "addedAt": "2025-12-30T00:54:12.189Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e02fa10fcd519ad13a7512805ca",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "1MoA0TNVdveasxnR6c2JqZ",
+      "name": "Jackie Down The Line",
+      "trackNumber": 4
+    },
     "id": "2ZMViS2A6M15Z1kN6n6O8S"
   },
   {
