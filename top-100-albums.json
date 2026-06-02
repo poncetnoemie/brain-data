@@ -744,7 +744,11 @@
     "addedAt": "2025-12-30T00:54:12.201Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e028c73ffae872bd99100e51cdb",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "00r2NL4OsWabgi5tQdxJ7K",
+      "name": "DsharpG",
+      "trackNumber": 4
+    },
     "id": "7mfSdEokzQjI5AxwrRauZv"
   },
   {
