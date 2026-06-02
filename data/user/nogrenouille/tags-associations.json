@@ -3221,11 +3221,20 @@
       "artistName": "Editors",
       "albumName": "In This Light and On This Evening",
       "associatedAt": "2026-06-02T08:45:40.509Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "1myEOhXztRxUVfaAEQiKkU",
+      "itemType": "track",
+      "itemName": "Cosmic Love",
+      "artistName": "Florence + The Machine",
+      "albumName": "Lungs",
+      "associatedAt": "2026-06-02T08:46:02.180Z"
     }
   ],
   "metadata": {
     "version": "1.0",
     "createdAt": "2025-11-11T00:00:00.000Z",
-    "updatedAt": "2026-06-02T08:45:40.509Z"
+    "updatedAt": "2026-06-02T08:46:02.180Z"
   }
 }
