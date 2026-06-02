@@ -785,7 +785,11 @@
     "addedAt": "2025-12-30T00:54:12.203Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e023f81f79bd9dd6ac6a9498246",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "1myEOhXztRxUVfaAEQiKkU",
+      "name": "Cosmic Love",
+      "trackNumber": 9
+    },
     "id": "5s9ri2Rr4nXdTFKUFjGkMe"
   },
   {
