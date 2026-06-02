@@ -703,7 +703,11 @@
     "addedAt": "2025-12-30T00:54:12.200Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e021a2839d106afaab36e0076f5",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "5EpU5EsanKQTfRfIVNOa1M",
+      "name": "No Kind Words",
+      "trackNumber": 6
+    },
     "id": "263qnpEbEbDvSrHvUSWgyk"
   },
   {
