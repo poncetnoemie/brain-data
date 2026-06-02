@@ -655,7 +655,11 @@
     "addedAt": "2025-12-30T00:54:12.200Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e0285a33be5adb66f53f2105b39",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "0uLUTCJOGOnbtAmSO085f7",
+      "name": "Tracks (Tall Bodies)",
+      "trackNumber": 3
+    },
     "id": "6FyvLNb26bBDQ9ViXlEy5i"
   },
   {
