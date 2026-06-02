@@ -3185,11 +3185,20 @@
       "artistName": "Mansfield.TYA",
       "albumName": "NYX",
       "associatedAt": "2026-06-02T08:44:34.366Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "0uLUTCJOGOnbtAmSO085f7",
+      "itemType": "track",
+      "itemName": "Tracks (Tall Bodies)",
+      "artistName": "Chelsea Wolfe",
+      "albumName": "Apokalypsis",
+      "associatedAt": "2026-06-02T08:44:51.441Z"
     }
   ],
   "metadata": {
     "version": "1.0",
     "createdAt": "2025-11-11T00:00:00.000Z",
-    "updatedAt": "2026-06-02T08:44:34.366Z"
+    "updatedAt": "2026-06-02T08:44:51.441Z"
   }
 }
