@@ -759,7 +759,11 @@
     "addedAt": "2025-12-30T00:54:12.202Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e02496cd28825f41b3b564b5631",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "2HKJBIG6LGbJ8XLenQCrkc",
+      "name": "Papillon",
+      "trackNumber": 3
+    },
     "id": "5j8nonYjFfm4KFso0wVqpN"
   },
   {
