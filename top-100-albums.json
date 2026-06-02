@@ -625,7 +625,11 @@
     "addedAt": "2025-12-30T00:54:12.199Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e02bbaf0064fb30d178838b9b90",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "65cMM7AKW3s4y1dEFsv09v",
+      "name": "Au loin",
+      "trackNumber": 13
+    },
     "id": "7fTKQdfuGQuRd5RYJfpaZB"
   },
   {
