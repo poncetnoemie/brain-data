@@ -3176,11 +3176,20 @@
       "artistName": "Metronomy",
       "albumName": "The English Riviera",
       "associatedAt": "2026-06-02T08:44:17.720Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "65cMM7AKW3s4y1dEFsv09v",
+      "itemType": "track",
+      "itemName": "Au loin",
+      "artistName": "Mansfield.TYA",
+      "albumName": "NYX",
+      "associatedAt": "2026-06-02T08:44:34.366Z"
     }
   ],
   "metadata": {
     "version": "1.0",
     "createdAt": "2025-11-11T00:00:00.000Z",
-    "updatedAt": "2026-06-02T08:44:17.720Z"
+    "updatedAt": "2026-06-02T08:44:34.366Z"
   }
 }
