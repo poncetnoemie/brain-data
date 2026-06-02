@@ -636,7 +636,11 @@
     "addedAt": "2025-12-30T00:54:12.199Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e028ca7d89456553e4bbbf3c981",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "0A45qiGiGMK3ZB69Iz4KR3",
+      "name": "Love Underlined",
+      "trackNumber": 11
+    },
     "id": "716fnrS2qXChPC3J2X73pK"
   },
   {
