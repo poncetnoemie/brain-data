@@ -1335,7 +1335,11 @@
     "releaseDate": "2024-03-01",
     "cover": "https://i.scdn.co/image/ab67616d00001e0273d127cb0d93a4c74fb99525",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "2hVbai5ZN5yykTbSteAPKy",
+      "name": "Sometimes",
+      "trackNumber": 5
+    },
     "addedAt": "2026-06-09T09:01:40.054Z"
   }
 ]
