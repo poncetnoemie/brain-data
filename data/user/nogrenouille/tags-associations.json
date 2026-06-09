@@ -3230,11 +3230,27 @@
       "artistName": "Florence + The Machine",
       "albumName": "Lungs",
       "associatedAt": "2026-06-02T08:46:02.180Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "5ROzqM7rbMYoKbQIw4i7fp",
+      "itemType": "album",
+      "itemName": "I Got Heaven",
+      "artistName": "Mannequin Pussy",
+      "associatedAt": "2026-06-09T09:01:40.026Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "2hVbai5ZN5yykTbSteAPKy",
+      "itemType": "track",
+      "itemName": "Sometimes",
+      "artistName": "Mannequin Pussy",
+      "associatedAt": "2026-06-09T09:02:16.636Z"
     }
   ],
   "metadata": {
     "version": "1.0",
     "createdAt": "2025-11-11T00:00:00.000Z",
-    "updatedAt": "2026-06-02T08:46:02.180Z"
+    "updatedAt": "2026-06-09T09:02:16.636Z"
   }
 }
