@@ -1245,7 +1245,11 @@
     "releaseDate": "2023-02-10",
     "cover": "https://i.scdn.co/image/ab67616d00001e0276a7b016a50ade1fa4f9022b",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "4T8GhH9Jz2ZAf8BnE7OXzi",
+      "name": "Moments Of Clarity",
+      "trackNumber": 2
+    },
     "addedAt": "2026-07-05T11:18:01.921Z"
   },
   {
