@@ -1239,17 +1239,13 @@
     "addedAt": "2026-06-09T09:01:40.054Z"
   },
   {
-    "albumId": "6HgcWTOYtsZaLlNOoyjqGL",
-    "albumName": "Chin Up Buttercup",
-    "artistName": "Austra",
-    "releaseDate": "2025-11-14",
-    "cover": "https://i.scdn.co/image/ab67616d00001e0231833dc6d950f69a25167406",
+    "albumId": "135Y92eWcCGg8GeFi5IF3v",
+    "albumName": "Moments of Clarity",
+    "artistName": "Narrow Head",
+    "releaseDate": "2023-02-10",
+    "cover": "https://i.scdn.co/image/ab67616d00001e0276a7b016a50ade1fa4f9022b",
     "comment": null,
-    "bestTrack": {
-      "id": "33IBQKB1tHkVqTNb2SDREd",
-      "name": "Fallen Cloud",
-      "trackNumber": 5
-    },
-    "addedAt": "2026-07-02T13:15:55.062Z"
+    "bestTrack": null,
+    "addedAt": "2026-07-05T11:18:01.921Z"
   }
 ]
