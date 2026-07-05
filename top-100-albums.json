@@ -1255,7 +1255,11 @@
     "releaseDate": "2020-01-24",
     "cover": "https://i.scdn.co/image/ab67616d00001e02f4b81487a927e415d095d934",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "6KpKwdIM3QOKXuLdz0R7Go",
+      "name": "Lost In Static",
+      "trackNumber": 3
+    },
     "addedAt": "2026-07-05T13:08:18.170Z"
   }
 ]
