@@ -1239,31 +1239,31 @@
     "addedAt": "2026-06-09T09:01:40.054Z"
   },
   {
-    "albumId": "135Y92eWcCGg8GeFi5IF3v",
-    "albumName": "Moments of Clarity",
-    "artistName": "Narrow Head",
-    "releaseDate": "2023-02-10",
-    "cover": "https://i.scdn.co/image/ab67616d00001e0276a7b016a50ade1fa4f9022b",
+    "albumId": "6HgcWTOYtsZaLlNOoyjqGL",
+    "albumName": "Chin Up Buttercup",
+    "artistName": "Austra",
+    "releaseDate": "2025-11-14",
+    "cover": "https://i.scdn.co/image/ab67616d00001e0231833dc6d950f69a25167406",
     "comment": null,
     "bestTrack": {
-      "id": "4T8GhH9Jz2ZAf8BnE7OXzi",
-      "name": "Moments Of Clarity",
-      "trackNumber": 2
+      "id": "33IBQKB1tHkVqTNb2SDREd",
+      "name": "Fallen Cloud",
+      "trackNumber": 5
     },
-    "addedAt": "2026-07-05T11:18:01.921Z"
+    "addedAt": "2026-07-02T13:15:55.062Z"
   },
   {
-    "albumId": "5QS3d3TiNeDsuF4jkwesGD",
-    "albumName": "27 Miles Underwater",
-    "artistName": "Higher Power",
-    "releaseDate": "2020-01-24",
-    "cover": "https://i.scdn.co/image/ab67616d00001e02f4b81487a927e415d095d934",
+    "albumId": "4HxzA7GFGtbcLiCNNd4AmZ",
+    "albumName": "The Spiritual Sound",
+    "artistName": "Agriculture",
+    "releaseDate": "2025-10-03",
+    "cover": "https://i.scdn.co/image/ab67616d00001e025d38a0a224bfdbf456ce443d",
     "comment": null,
     "bestTrack": {
-      "id": "6KpKwdIM3QOKXuLdz0R7Go",
-      "name": "Lost In Static",
-      "trackNumber": 3
+      "id": "1NoYnWzMQ1mY67jo7gDakq",
+      "name": "Bodhidharma",
+      "trackNumber": 8
     },
-    "addedAt": "2026-07-05T13:08:18.170Z"
+    "addedAt": "2026-09-01T21:58:45.458Z"
   }
 ]
