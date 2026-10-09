@@ -1118,7 +1118,11 @@
     "addedAt": "2025-12-30T00:54:52.573Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e02409a7c131b0c6f31756395a2",
     "comment": null,
-    "bestTrack": null
+    "bestTrack": {
+      "id": "6amFi2doIl8g6Yq7huInLr",
+      "name": "Chevron",
+      "trackNumber": 2
+    }
   },
   {
     "albumId": "23MOdUJkZlG971DVuEINMr",
