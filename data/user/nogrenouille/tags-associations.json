@@ -3336,11 +3336,20 @@
       "artistName": "Cult Of Luna",
       "albumName": "Mariner",
       "associatedAt": "2026-10-09T16:38:47.456Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "2V4Bc2I962j7acQj1N0PiQ",
+      "itemType": "track",
+      "itemName": "Celebrity Skin",
+      "artistName": "Hole",
+      "albumName": "Celebrity Skin",
+      "associatedAt": "2026-10-09T16:40:11.167Z"
     }
   ],
   "metadata": {
     "version": "1.0",
     "createdAt": "2025-11-11T00:00:00.000Z",
-    "updatedAt": "2026-10-09T16:38:47.456Z"
+    "updatedAt": "2026-10-09T16:40:11.167Z"
   }
 }
