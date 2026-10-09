@@ -992,7 +992,11 @@
     "addedAt": "2025-12-30T00:54:12.210Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e020649124c37ce988317263671",
     "comment": null,
-    "bestTrack": null
+    "bestTrack": {
+      "id": "2V4Bc2I962j7acQj1N0PiQ",
+      "name": "Celebrity Skin",
+      "trackNumber": 1
+    }
   },
   {
     "albumId": "6cuNyrSmRjBeekioLdLkvI",
