@@ -1287,7 +1287,11 @@
     "releaseDate": "2026-09-18",
     "cover": "https://i.scdn.co/image/ab67616d00001e02915da323f2573bacfa9fb284",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "6yZ1ma0MqAP1R8V1kECc7K",
+      "name": "Anvil",
+      "trackNumber": 3
+    },
     "addedAt": "2026-10-09T16:03:14.361Z"
   }
 ]
