@@ -3345,11 +3345,20 @@
       "artistName": "Hole",
       "albumName": "Celebrity Skin",
       "associatedAt": "2026-10-09T16:40:11.167Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "5R26OiJjmfAJ0WxTqCgYNC",
+      "itemType": "track",
+      "itemName": "So Jealous",
+      "artistName": "Tegan and Sara",
+      "albumName": "So Jealous",
+      "associatedAt": "2026-10-09T16:40:53.381Z"
     }
   ],
   "metadata": {
     "version": "1.0",
     "createdAt": "2025-11-11T00:00:00.000Z",
-    "updatedAt": "2026-10-09T16:40:11.167Z"
+    "updatedAt": "2026-10-09T16:40:53.381Z"
   }
 }
