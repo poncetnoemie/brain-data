@@ -852,7 +852,11 @@
     "addedAt": "2025-12-30T00:54:12.207Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e02d424a2675b400a7d2dac48b9",
     "comment": null,
-    "bestTrack": null
+    "bestTrack": {
+      "id": "5R26OiJjmfAJ0WxTqCgYNC",
+      "name": "So Jealous",
+      "trackNumber": 9
+    }
   },
   {
     "albumId": "4hBTxv4QRPePXCFcEI7Vjp",
