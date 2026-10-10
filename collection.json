@@ -3043,17 +3043,6 @@
     ]
   },
   {
-    "albumId": "6NmspSSd2TnMoCf4Gy08Ps",
-    "albumName": "Melinoë",
-    "artistName": "Akhlys",
-    "releaseDate": "2020-12-14",
-    "addedAt": "2026-06-01T09:53:47.728Z",
-    "cover": "https://i.scdn.co/image/ab67616d00001e02563cb302eb76828fc9c67a05",
-    "media": [
-      "vinyle"
-    ]
-  },
-  {
     "albumId": "0hBWhJEmVyNPG2Jq71CJXz",
     "albumName": "Stories From The City, Stories From The Sea",
     "artistName": "PJ Harvey",
@@ -3587,11 +3576,11 @@
   },
   {
     "albumId": "22n7CcR13wqGjEalXX9iA9",
-    "albumName": null,
-    "artistName": null,
-    "releaseDate": null,
+    "albumName": "In All That Drifts from Summit Down",
+    "artistName": "A Dead Forest Index",
+    "releaseDate": "2016-04-29",
     "addedAt": "2026-10-10T15:59:27.060Z",
-    "cover": null,
+    "cover": "https://i.scdn.co/image/ab67616d00001e0226e8cc36029bc47f895763ca",
     "media": [
       "vinyle"
     ]
