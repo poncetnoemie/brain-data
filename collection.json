@@ -3938,5 +3938,16 @@
     "media": [
       "vinyle"
     ]
+  },
+  {
+    "albumId": "1V342k6sinWc4y4R2iReOu",
+    "albumName": "Music",
+    "artistName": "Madonna",
+    "releaseDate": "2000-09-19",
+    "addedAt": "2026-10-10T18:01:01.381Z",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02ae80b0a207008fe96637032c",
+    "media": [
+      "vinyle"
+    ]
   }
 ]
