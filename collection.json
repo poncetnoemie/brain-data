@@ -4279,5 +4279,16 @@
     "media": [
       "vinyle"
     ]
+  },
+  {
+    "albumId": "1XETgWzPEDpuGiDRxAdxLf",
+    "albumName": "World's Blood",
+    "artistName": "Wayfarer",
+    "releaseDate": "2018-05-25",
+    "addedAt": "2026-10-10T19:19:27.583Z",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02b728fe82a0bd0fa00afb7f5e",
+    "media": [
+      "cd"
+    ]
   }
 ]
