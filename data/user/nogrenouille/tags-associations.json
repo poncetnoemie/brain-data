@@ -3427,11 +3427,19 @@
       "artistName": "Placebo",
       "albumName": "Black Market Music",
       "associatedAt": "2026-11-05T14:59:08.079Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "6z4zr9dKJy3E3Xi8BSJ3Gq",
+      "itemType": "track",
+      "itemName": "Sigil",
+      "artistName": "Sour Widows",
+      "associatedAt": "2026-11-05T16:31:40.999Z"
     }
   ],
   "metadata": {
     "version": "1.0",
     "createdAt": "2025-11-11T00:00:00.000Z",
-    "updatedAt": "2026-11-05T14:59:08.079Z"
+    "updatedAt": "2026-11-05T16:31:40.999Z"
   }
 }
