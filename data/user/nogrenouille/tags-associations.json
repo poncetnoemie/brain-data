@@ -3272,14 +3272,6 @@
       "associatedAt": "2026-07-08T22:52:47.832Z"
     },
     {
-      "tagId": "13",
-      "itemId": "6S7mwrc4FXlG4MmuBaDGAA",
-      "itemType": "album",
-      "itemName": "LOOKING FOR PEOPLE TO UNFOLLOW",
-      "artistName": "Ecca Vandal",
-      "associatedAt": "2026-08-23T12:52:30.174Z"
-    },
-    {
       "tagId": "16",
       "itemId": "7x0v42YrPxBJss2CUWfRT9",
       "itemType": "album",
@@ -3354,11 +3346,83 @@
       "artistName": "Tegan and Sara",
       "albumName": "So Jealous",
       "associatedAt": "2026-10-09T16:40:53.381Z"
+    },
+    {
+      "tagId": "49",
+      "itemId": "5siV9C6eK0NpAqER2FfCVA",
+      "itemType": "album",
+      "itemName": "WOR$T GIRL IN AMERICA",
+      "artistName": "Slayyyter",
+      "associatedAt": "2026-10-09T20:54:59.128Z"
+    },
+    {
+      "tagId": "50",
+      "itemId": "2qTYkMZ8qtOcyEgD5LTawC",
+      "itemType": "album",
+      "itemName": "These Killing Times",
+      "artistName": "Emma Ruth Rundle",
+      "associatedAt": "2026-10-09T20:56:10.621Z"
+    },
+    {
+      "tagId": "50",
+      "itemId": "5VZyXBOIRs0w7Rh0pWmecI",
+      "itemType": "album",
+      "itemName": "Whisper and Wane",
+      "artistName": "Shedfromthebody",
+      "associatedAt": "2026-10-09T20:57:02.924Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "0rqwAw1OsmH6qwGjnbAgn4",
+      "itemType": "album",
+      "itemName": "Only Love",
+      "artistName": "The Armed",
+      "associatedAt": "2026-10-10T16:35:52.404Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "6QECo8Zz2WutJseB0NlfKP",
+      "itemType": "album",
+      "itemName": "Do Not Let Me Off The Cliff (Deluxe Edition)",
+      "artistName": "Cloud Rat",
+      "associatedAt": "2026-10-10T16:59:36.951Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "2TXvLJ7iH63RwKGUFjypjM",
+      "itemType": "album",
+      "itemName": "hunting what we already killed",
+      "artistName": "Dev Lemons",
+      "associatedAt": "2026-10-26T15:05:48.910Z"
+    },
+    {
+      "tagId": "16",
+      "itemId": "7BdMsrW1uPoyuYvoLLSGtj",
+      "itemType": "album",
+      "itemName": "Pollyanna",
+      "artistName": "Sandhouse",
+      "associatedAt": "2026-11-05T09:41:59.511Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "7BdMsrW1uPoyuYvoLLSGtj",
+      "itemType": "album",
+      "itemName": "Pollyanna",
+      "artistName": "Sandhouse",
+      "associatedAt": "2026-11-05T09:42:39.543Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "6kTPYa7RxpG7t8PWINWL15",
+      "itemType": "track",
+      "itemName": "Morning Star",
+      "artistName": "King Woman",
+      "associatedAt": "2026-11-05T14:57:08.868Z"
     }
   ],
   "metadata": {
     "version": "1.0",
     "createdAt": "2025-11-11T00:00:00.000Z",
-    "updatedAt": "2026-10-09T16:40:53.381Z"
+    "updatedAt": "2026-11-05T14:57:08.868Z"
   }
 }
