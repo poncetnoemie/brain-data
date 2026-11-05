@@ -948,7 +948,11 @@
     "addedAt": "2025-12-30T00:54:12.210Z",
     "cover": "https://i.scdn.co/image/ab67616d00001e0293deba59f323074beff846ff",
     "comment": null,
-    "bestTrack": null
+    "bestTrack": {
+      "id": "493r2DTRhYUzsy90HauADi",
+      "name": "Slave to the Wage",
+      "trackNumber": 8
+    }
   },
   {
     "albumId": "02qgAJm7p9AXtFNHhDTYdu",
