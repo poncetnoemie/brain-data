@@ -3264,14 +3264,6 @@
       "associatedAt": "2026-07-08T22:47:11.492Z"
     },
     {
-      "tagId": "13",
-      "itemId": "12RVUYoOj8TCAfgP7L3zOg",
-      "itemType": "album",
-      "itemName": "The Bestiary",
-      "artistName": "Castle Rat",
-      "associatedAt": "2026-07-08T22:52:47.832Z"
-    },
-    {
       "tagId": "16",
       "itemId": "7x0v42YrPxBJss2CUWfRT9",
       "itemType": "album",
@@ -3388,14 +3380,6 @@
       "associatedAt": "2026-10-10T16:59:36.951Z"
     },
     {
-      "tagId": "13",
-      "itemId": "2TXvLJ7iH63RwKGUFjypjM",
-      "itemType": "album",
-      "itemName": "hunting what we already killed",
-      "artistName": "Dev Lemons",
-      "associatedAt": "2026-10-26T15:05:48.910Z"
-    },
-    {
       "tagId": "16",
       "itemId": "7BdMsrW1uPoyuYvoLLSGtj",
       "itemType": "album",
@@ -3435,11 +3419,43 @@
       "itemName": "Sigil",
       "artistName": "Sour Widows",
       "associatedAt": "2026-11-05T16:31:40.999Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "3HaXEC1Zfo0zM6OCqdpofT",
+      "itemType": "album",
+      "itemName": "ZIRP!",
+      "artistName": "DIIV",
+      "associatedAt": "2026-11-06T15:43:17.025Z"
+    },
+    {
+      "tagId": "13",
+      "itemId": "4f9ajG7yABePyI59OhmRQH",
+      "itemType": "album",
+      "itemName": "Dust Settles and So Will I",
+      "artistName": "Susannah Joffe",
+      "associatedAt": "2026-11-06T16:35:30.301Z"
+    },
+    {
+      "tagId": "46",
+      "itemId": "2TXvLJ7iH63RwKGUFjypjM",
+      "itemType": "album",
+      "itemName": "hunting what we already killed",
+      "artistName": "Dev Lemons",
+      "associatedAt": "2026-11-17T00:09:32.320Z"
+    },
+    {
+      "tagId": "10",
+      "itemId": "2w7vsxbXzWdgAACGE3wp5u",
+      "itemType": "track",
+      "itemName": "best friend",
+      "artistName": "Dev Lemons",
+      "associatedAt": "2026-11-18T14:26:23.160Z"
     }
   ],
   "metadata": {
     "version": "1.0",
     "createdAt": "2025-11-11T00:00:00.000Z",
-    "updatedAt": "2026-11-05T16:31:40.999Z"
+    "updatedAt": "2026-11-18T14:26:23.160Z"
   }
 }
