@@ -6,7 +6,8 @@
     "description": "",
     "spotifyUrl": "https://open.spotify.com/playlist/6szvHobh1yW9VzptDOlrmX",
     "spotifyCode": "https://scannables.scdn.co/uri/plain/png/FFFFFF/black/1200/spotify:playlist:6szvHobh1yW9VzptDOlrmX",
-    "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d0827a532cc1ba6331fedb8b",
+    "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d0827a532cc1ba6331fedb8b",
+    "duration": 1370060,
     "tracks": [
       {
         "id": "5uE0ggArLjnpwVPEXc36Hx",
@@ -82,7 +83,8 @@
     "description": "",
     "spotifyUrl": "https://open.spotify.com/playlist/2wdMUWYNAO5HPod4XVUkKU",
     "spotifyCode": "https://scannables.scdn.co/uri/plain/png/FFFFFF/black/1200/spotify:playlist:2wdMUWYNAO5HPod4XVUkKU",
-    "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84917475e0ee55b9650f23497a",
+    "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84917475e0ee55b9650f23497a",
+    "duration": 1085448,
     "tracks": [
       {
         "id": "6NL6s0I7uOoBbUPKxdydA6",
@@ -158,7 +160,8 @@
     "description": "",
     "spotifyUrl": "https://open.spotify.com/playlist/3DC0mrnmjyEVZiSdIqNMK2",
     "spotifyCode": "https://scannables.scdn.co/uri/plain/png/FFFFFF/black/1200/spotify:playlist:3DC0mrnmjyEVZiSdIqNMK2",
-    "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d9acf2f594eb21847320b449",
+    "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d9acf2f594eb21847320b449",
+    "duration": 1285018,
     "tracks": [
       {
         "id": "7ImkjvM1OKWhJ5HIPOHcHE",
@@ -235,6 +238,7 @@
     "spotifyUrl": "https://open.spotify.com/playlist/1uHMP0Dfk7b5MJS8qzT37G",
     "spotifyCode": "https://scannables.scdn.co/uri/plain/png/FFFFFF/black/1200/spotify:playlist:1uHMP0Dfk7b5MJS8qzT37G",
     "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84a37b981f5dab91b818337421",
+    "duration": 1070689,
     "tracks": [
       {
         "id": "7MIiMO4bHRpworM5eWirnq",
@@ -311,6 +315,7 @@
     "spotifyUrl": "https://open.spotify.com/playlist/7IMA03QPyiZkyCiRN5Dj7l",
     "spotifyCode": "https://scannables.scdn.co/uri/plain/png/FFFFFF/black/1200/spotify:playlist:7IMA03QPyiZkyCiRN5Dj7l",
     "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8435ab411c5dcebd76af7aef64",
+    "duration": 842938,
     "tracks": [
       {
         "id": "7i3qhnxYFlgddPvGyhN26T",
@@ -387,6 +392,7 @@
     "spotifyUrl": "https://open.spotify.com/playlist/5csXNKatthmvqygd3IxNta",
     "spotifyCode": "https://scannables.scdn.co/uri/plain/png/FFFFFF/black/1200/spotify:playlist:5csXNKatthmvqygd3IxNta",
     "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d8657fd4cee2e8105cf73e3b",
+    "duration": 1239020,
     "tracks": [
       {
         "id": "0S2AnOSWYdjCP7gQPAr8Dg",
