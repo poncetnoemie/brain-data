@@ -80,7 +80,7 @@
       "description": "",
       "spotifyUrl": "https://open.spotify.com/playlist/2wdMUWYNAO5HPod4XVUkKU",
       "spotifyCode": "https://scannables.scdn.co/uri/plain/png/FFFFFF/black/1200/spotify:playlist:2wdMUWYNAO5HPod4XVUkKU",
-      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84917475e0ee55b9650f23497a",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84917475e0ee55b9650f23497a",
       "tracks": [
         {
           "id": "6NL6s0I7uOoBbUPKxdydA6",
@@ -151,7 +151,7 @@
       "description": "",
       "spotifyUrl": "https://open.spotify.com/playlist/3DC0mrnmjyEVZiSdIqNMK2",
       "spotifyCode": "https://scannables.scdn.co/uri/plain/png/FFFFFF/black/1200/spotify:playlist:3DC0mrnmjyEVZiSdIqNMK2",
-      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d9acf2f594eb21847320b449",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d9acf2f594eb21847320b449",
       "tracks": [
         {
           "id": "7ImkjvM1OKWhJ5HIPOHcHE",
@@ -293,7 +293,7 @@
       "description": "",
       "spotifyUrl": "https://open.spotify.com/playlist/7IMA03QPyiZkyCiRN5Dj7l",
       "spotifyCode": "https://scannables.scdn.co/uri/plain/png/FFFFFF/black/1200/spotify:playlist:7IMA03QPyiZkyCiRN5Dj7l",
-      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8435ab411c5dcebd76af7aef64",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8435ab411c5dcebd76af7aef64",
       "tracks": [
         {
           "id": "7i3qhnxYFlgddPvGyhN26T",
@@ -364,7 +364,7 @@
       "description": "",
       "spotifyUrl": "https://open.spotify.com/playlist/5csXNKatthmvqygd3IxNta",
       "spotifyCode": "https://scannables.scdn.co/uri/plain/png/FFFFFF/black/1200/spotify:playlist:5csXNKatthmvqygd3IxNta",
-      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d8657fd4cee2e8105cf73e3b",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d8657fd4cee2e8105cf73e3b",
       "tracks": [
         {
           "id": "0S2AnOSWYdjCP7gQPAr8Dg",
@@ -429,5 +429,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-18T13:20:44.521Z"
+  "updatedAt": "2026-11-18T13:20:50.134Z"
 }
