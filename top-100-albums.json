@@ -1327,7 +1327,11 @@
     "releaseDate": "2026-10-02",
     "cover": "https://i.scdn.co/image/ab67616d00001e024af1e8f6cbbbd4ebb513132d",
     "comment": null,
-    "bestTrack": null,
+    "bestTrack": {
+      "id": "2w7vsxbXzWdgAACGE3wp5u",
+      "name": "best friend",
+      "trackNumber": 8
+    },
     "addedAt": "2026-11-17T00:09:32.358Z"
   }
 ]
